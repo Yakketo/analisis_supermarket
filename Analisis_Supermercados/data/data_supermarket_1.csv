@@ -1,0 +1,1001 @@
+product_name,price,category,units_sold,stock_after,date,store_id,store_location,promotion_active,holiday,local_event
+Vino Tinto Rioja,8.34,Bebidas,3,40,2024-11-07,S011,Murcia,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,2.64,Bebidas,6,54,2024-11-29,S015,Murcia,1,Sin Festivo,Sin Evento
+Manzanas Fuji,5.22,Frutas y Verduras,2,90,2024-10-21,S005,Valencia,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.6,Higiene,24,1,2024-05-03,S036,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Pan de Molde,0.73,Panadería,1,17,2024-12-26,S022,Zaragoza,0,Sin Festivo,Sin Evento
+Pasta Italiana,7.5,Alimentación,7,59,2025-08-17,S032,Barcelona,1,Sin Festivo,Sin Evento
+Yogur Natural,2.74,Lácteos,1,34,2025-03-19,S006,Valencia,0,Las Fallas,Sin Evento
+Protector Solar,12.95,Cuidado Personal,1,65,2024-12-13,S022,Madrid,0,Sin Festivo,Sin Evento
+Pasta Italiana,6.92,Alimentación,1,100,2025-08-29,S024,Madrid,1,Sin Festivo,Sin Evento
+Turrón de Almendras,6.54,Alimentación (Navidad),6,27,2024-07-24,S027,Madrid,0,Sin Festivo,Sin Evento
+Protector Solar,9.0,Cuidado Personal,4,26,2025-10-25,S028,Murcia,1,Sin Festivo,Sin Evento
+Detergente Líquido,6.07,Limpieza,0,98,2025-06-05,S046,Bilbao,0,Sin Festivo,Sin Evento
+Yogur Natural,1.96,Lácteos,1,40,2025-02-27,S039,Málaga,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,8.82,Bebidas,0,9,2024-01-25,S007,Zaragoza,0,Sin Festivo,Sin Evento
+Pasta Italiana,4.32,Alimentación,2,172,2025-02-23,S028,Alicante,0,Sin Festivo,Sin Evento
+Detergente Líquido,3.38,Limpieza,3,176,2024-05-12,S032,Málaga,1,Sin Festivo,Sin Evento
+Yogur Natural,2.13,Lácteos,3,104,2024-07-02,S022,Barcelona,0,Sin Festivo,Sin Evento
+Pan de Molde,1.55,Panadería,0,40,2024-02-13,S045,Málaga,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.78,Congelados,2,95,2024-07-31,S022,Madrid,0,Sin Festivo,Sin Evento
+Pollo Fresco,6.39,Carnes,4,70,2024-09-04,S027,Bilbao,0,Sin Festivo,Sin Evento
+Yogur Natural,1.97,Lácteos,0,0,2024-04-04,S015,Zaragoza,0,Sin Festivo,Sin Evento
+Manzanas Fuji,2.69,Frutas y Verduras,5,6,2025-10-12,S029,Zaragoza,1,Fiesta Nacional de España,Sin Evento
+Pollo Fresco,13.9,Carnes,0,44,2025-11-30,S017,Bilbao,0,Sin Festivo,Sin Evento
+Pollo Fresco,7.03,Carnes,4,19,2025-09-25,S009,Zaragoza,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,10.44,Bebidas,0,18,2024-03-20,S049,Alicante,0,Sin Festivo,Sin Evento
+Manzanas Fuji,3.51,Frutas y Verduras,2,141,2025-04-16,S034,Madrid,0,Sin Festivo,Sin Evento
+Helado de Vainilla,4.72,Congelados,2,72,2024-03-07,S020,Bilbao,0,Sin Festivo,Sin Evento
+Helado de Vainilla,5.3,Congelados,17,100,2025-02-23,S024,Sevilla,1,Sin Festivo,Sin Evento
+Papel Higiénico,1.63,Higiene,10,64,2024-03-18,S008,Málaga,0,Sin Festivo,Mercado Semanal
+Paraguas,6.48,Hogar,9,34,2024-05-27,S019,Madrid,0,Sin Festivo,Sin Evento
+Pollo Fresco,7.61,Carnes,6,27,2025-07-27,S044,Valencia,1,Sin Festivo,Sin Evento
+Papel Higiénico,4.13,Higiene,4,57,2025-08-03,S001,Málaga,1,Sin Festivo,Sin Evento
+Yogur Natural,1.9,Lácteos,5,124,2024-07-26,S004,Madrid,0,Sin Festivo,Sin Evento
+Pollo Fresco,7.01,Carnes,10,5,2025-04-26,S010,Zaragoza,1,Sin Festivo,Sin Evento
+Cerveza Lager,10.4,Bebidas,2,31,2025-01-29,S026,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.21,Congelados,5,128,2024-01-28,S015,Barcelona,0,Sin Festivo,Sin Evento
+Paraguas,15.34,Hogar,2,33,2024-10-12,S025,Palma de Mallorca,0,Fiesta Nacional de España,Sin Evento
+Protector Solar,9.13,Cuidado Personal,2,34,2025-09-12,S024,Sevilla,1,Sin Festivo,Sin Evento
+Leche Entera,0.66,Lácteos,16,6,2025-03-16,S034,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Leche Entera,2.32,Lácteos,0,2,2025-12-25,S041,Madrid,0,Navidad,Sin Evento
+Leche Entera,2.63,Lácteos,3,80,2025-12-15,S022,Madrid,0,Sin Festivo,Sin Evento
+Leche Entera,2.99,Lácteos,2,23,2024-07-11,S026,Málaga,0,Sin Festivo,Sin Evento
+Yogur Natural,0.56,Lácteos,11,16,2024-03-03,S039,Sevilla,1,Sin Festivo,Sin Evento
+Manzanas Fuji,5.16,Frutas y Verduras,2,110,2024-09-15,S038,Madrid,0,Sin Festivo,Sin Evento
+Detergente Líquido,5.34,Limpieza,1,104,2025-10-12,S046,Barcelona,1,Fiesta Nacional de España,Sin Evento
+Vino Tinto Rioja,1.25,Bebidas,5,102,2024-08-04,S007,Alicante,0,Sin Festivo,Sin Evento
+Turrón de Almendras,19.83,Alimentación (Navidad),3,21,2025-03-27,S036,Bilbao,0,Sin Festivo,Sin Evento
+Helado de Vainilla,2.23,Congelados,2,109,2024-07-01,S028,Barcelona,0,Sin Festivo,Sin Evento
+Manzanas Fuji,2.98,Frutas y Verduras,3,132,2024-08-15,S047,Bilbao,0,Asunción de la Virgen,Sin Evento
+Cerveza Lager,5.64,Bebidas,5,121,2024-04-01,S027,Zaragoza,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.97,Congelados,2,102,2024-02-08,S037,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.92,Higiene,5,4,2025-04-07,S009,Madrid,0,Sin Festivo,Sin Evento
+Helado de Vainilla,8.62,Congelados,0,113,2024-02-14,S034,Málaga,0,Sin Festivo,Sin Evento
+Turrón de Almendras,9.36,Alimentación (Navidad),1,0,2024-12-24,S025,Madrid,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.88,Congelados,3,25,2024-05-21,S025,Alicante,0,Sin Festivo,Sin Evento
+Detergente Líquido,4.6,Limpieza,0,108,2024-11-06,S045,Barcelona,0,Sin Festivo,Sin Evento
+Papel Higiénico,5.94,Higiene,2,28,2024-11-01,S049,Málaga,0,Todos los Santos,Sin Evento
+Vino Tinto Rioja,8.62,Bebidas,4,53,2025-03-02,S018,Zaragoza,0,Sin Festivo,Sin Evento
+Pollo Fresco,2.67,Carnes,6,89,2024-05-18,S013,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pollo Fresco,11.46,Carnes,3,92,2024-11-26,S022,Bilbao,0,Sin Festivo,Sin Evento
+Pan de Molde,1.38,Panadería,9,13,2025-06-29,S030,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pasta Italiana,6.3,Alimentación,0,135,2024-03-01,S038,Murcia,1,Sin Festivo,Sin Evento
+Papel Higiénico,3.24,Higiene,3,1,2024-08-27,S042,Bilbao,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,10.65,Bebidas,1,22,2024-10-08,S020,Málaga,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.44,Congelados,3,18,2025-07-08,S046,Murcia,0,Sin Festivo,Sin Evento
+Helado de Vainilla,2.04,Congelados,7,58,2025-11-21,S017,Murcia,0,Sin Festivo,Sin Evento
+Pasta Italiana,3.6,Alimentación,7,75,2025-09-14,S010,Málaga,0,Sin Festivo,Sin Evento
+Cerveza Lager,7.11,Bebidas,9,11,2024-06-01,S030,Valencia,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,6.88,Bebidas,5,36,2025-02-03,S004,Alicante,0,Sin Festivo,Sin Evento
+Turrón de Almendras,5.38,Alimentación (Navidad),1,40,2025-08-11,S010,Bilbao,0,Sin Festivo,Sin Evento
+Paraguas,10.2,Hogar,11,34,2024-03-31,S021,Murcia,1,Sin Festivo,Sin Evento
+Pollo Fresco,7.38,Carnes,1,0,2024-02-10,S013,Murcia,0,Sin Festivo,Sin Evento
+Papel Higiénico,0.73,Higiene,3,45,2024-08-09,S050,Málaga,1,Sin Festivo,Sin Evento
+Aceite de Oliva,3.87,Alimentación,3,0,2024-11-19,S039,Alicante,0,Sin Festivo,Sin Evento
+Protector Solar,13.93,Cuidado Personal,2,59,2024-10-23,S044,Bilbao,0,Sin Festivo,Sin Evento
+Yogur Natural,2.23,Lácteos,2,90,2025-07-23,S011,Barcelona,0,Sin Festivo,Sin Evento
+Helado de Vainilla,1.93,Congelados,2,54,2024-06-05,S046,Bilbao,0,Sin Festivo,Sin Evento
+Detergente Líquido,4.45,Limpieza,2,35,2024-04-04,S045,Alicante,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,7.75,Bebidas,3,0,2024-08-01,S012,Zaragoza,0,Sin Festivo,Sin Evento
+Protector Solar,5.4,Cuidado Personal,8,36,2024-03-02,S034,Madrid,1,Sin Festivo,Sin Evento
+Pollo Fresco,4.41,Carnes,7,12,2025-12-24,S022,Murcia,0,Sin Festivo,Sin Evento
+Turrón de Almendras,16.92,Alimentación (Navidad),8,26,2025-12-04,S030,Alicante,0,Sin Festivo,Sin Evento
+Leche Entera,2.0,Lácteos,0,47,2025-06-27,S035,Bilbao,0,Sin Festivo,Sin Evento
+Pan de Molde,0.67,Panadería,4,9,2025-07-01,S048,Murcia,0,Sin Festivo,Sin Evento
+Protector Solar,5.87,Cuidado Personal,0,29,2025-08-22,S043,Alicante,1,Sin Festivo,Sin Evento
+Protector Solar,8.02,Cuidado Personal,0,35,2024-12-18,S003,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Papel Higiénico,3.44,Higiene,2,64,2024-04-03,S044,Madrid,0,Sin Festivo,Sin Evento
+Pollo Fresco,11.12,Carnes,0,38,2024-05-11,S023,Bilbao,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.81,Higiene,0,40,2025-10-03,S044,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Yogur Natural,1.94,Lácteos,2,100,2024-07-29,S023,Málaga,0,Sin Festivo,Sin Evento
+Turrón de Almendras,20.91,Alimentación (Navidad),3,55,2025-05-10,S013,Madrid,0,Sin Festivo,Sin Evento
+Leche Entera,1.3,Lácteos,2,79,2024-07-30,S022,Málaga,0,Sin Festivo,Sin Evento
+Paraguas,17.47,Hogar,1,11,2024-04-28,S018,Murcia,0,Sin Festivo,Sin Evento
+Cerveza Lager,3.35,Bebidas,4,37,2024-04-21,S001,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pan de Molde,0.57,Panadería,9,14,2024-01-20,S023,Alicante,0,Sin Festivo,Sin Evento
+Manzanas Fuji,1.9,Frutas y Verduras,7,11,2024-07-04,S005,Zaragoza,0,Sin Festivo,Sin Evento
+Pan de Molde,1.66,Panadería,0,48,2024-08-30,S018,Zaragoza,1,Sin Festivo,Sin Evento
+Helado de Vainilla,5.21,Congelados,7,70,2025-05-12,S036,Bilbao,0,Sin Festivo,Concierto Grande
+Leche Entera,2.06,Lácteos,2,39,2025-04-11,S022,Bilbao,1,Sin Festivo,Sin Evento
+Paraguas,18.01,Hogar,1,35,2025-12-07,S022,Valencia,0,Sin Festivo,Sin Evento
+Cerveza Lager,11.54,Bebidas,2,145,2025-04-05,S017,Valencia,1,Sin Festivo,Sin Evento
+Detergente Líquido,4.27,Limpieza,3,107,2024-11-28,S037,Zaragoza,0,Sin Festivo,Sin Evento
+Pan de Molde,0.96,Panadería,1,40,2024-12-06,S028,Sevilla,1,Día de la Constitución Española,Sin Evento
+Pan de Molde,1.45,Panadería,1,8,2024-09-06,S016,Alicante,0,Sin Festivo,Evento Deportivo Importante
+Helado de Vainilla,3.5,Congelados,2,59,2024-07-17,S010,Valencia,0,Sin Festivo,Sin Evento
+Detergente Líquido,1.71,Limpieza,16,142,2024-03-23,S040,Zaragoza,0,Sin Festivo,Sin Evento
+Yogur Natural,2.01,Lácteos,7,124,2025-04-08,S015,Málaga,0,Sin Festivo,Sin Evento
+Pan de Molde,2.04,Panadería,1,13,2024-12-10,S021,Bilbao,0,Sin Festivo,Sin Evento
+Helado de Vainilla,4.26,Congelados,7,6,2024-10-04,S002,Murcia,1,Sin Festivo,Evento Deportivo Importante
+Aceite de Oliva,9.99,Alimentación,2,4,2025-10-05,S008,Madrid,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,1.39,Bebidas,6,22,2025-11-09,S048,Bilbao,0,Sin Festivo,Sin Evento
+Leche Entera,2.61,Lácteos,3,47,2025-07-01,S027,Bilbao,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,5.63,Bebidas,12,88,2025-05-17,S004,Sevilla,1,Sin Festivo,Sin Evento
+Paraguas,5.44,Hogar,4,44,2024-08-07,S022,Bilbao,0,Sin Festivo,Sin Evento
+Pan de Molde,0.9,Panadería,8,27,2024-08-10,S024,Valencia,0,Sin Festivo,Sin Evento
+Pollo Fresco,4.76,Carnes,2,40,2025-09-24,S038,Valencia,0,Sin Festivo,Sin Evento
+Helado de Vainilla,5.76,Congelados,0,56,2025-11-04,S022,Alicante,0,Sin Festivo,Sin Evento
+Pasta Italiana,2.37,Alimentación,17,145,2024-05-31,S046,Valencia,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,2.1,Bebidas,9,33,2024-10-30,S012,Valencia,0,Sin Festivo,Sin Evento
+Pan de Molde,2.93,Panadería,4,43,2025-12-05,S011,Sevilla,0,Sin Festivo,Evento Deportivo Importante
+Pasta Italiana,1.1,Alimentación,4,63,2025-09-12,S034,Barcelona,1,Sin Festivo,Sin Evento
+Pan de Molde,1.87,Panadería,3,43,2024-07-12,S009,Valencia,1,Sin Festivo,Sin Evento
+Papel Higiénico,4.57,Higiene,1,10,2025-11-27,S043,Málaga,0,Sin Festivo,Sin Evento
+Pollo Fresco,8.07,Carnes,5,2,2024-05-20,S046,Barcelona,0,Sin Festivo,Sin Evento
+Cerveza Lager,2.72,Bebidas,9,36,2025-03-18,S004,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pasta Italiana,0.63,Alimentación,3,31,2025-04-15,S024,Valencia,0,Sin Festivo,Sin Evento
+Pan de Molde,2.0,Panadería,3,49,2024-09-30,S010,Sevilla,0,Sin Festivo,Sin Evento
+Pasta Italiana,3.55,Alimentación,5,184,2024-08-03,S040,Sevilla,1,Sin Festivo,Sin Evento
+Manzanas Fuji,5.07,Frutas y Verduras,0,17,2024-05-17,S039,Málaga,0,Sin Festivo,Sin Evento
+Pan de Molde,2.07,Panadería,3,1,2024-04-11,S038,Murcia,0,Sin Festivo,Sin Evento
+Leche Entera,0.59,Lácteos,10,42,2025-04-21,S024,Zaragoza,0,Sin Festivo,Sin Evento
+Detergente Líquido,3.18,Limpieza,3,162,2025-01-17,S040,Málaga,1,Sin Festivo,Sin Evento
+Papel Higiénico,3.2,Higiene,2,31,2025-09-10,S015,Bilbao,0,Sin Festivo,Sin Evento
+Helado de Vainilla,5.94,Congelados,5,92,2024-11-11,S037,Zaragoza,0,Sin Festivo,Sin Evento
+Aceite de Oliva,5.99,Alimentación,5,58,2024-11-10,S005,Murcia,0,Sin Festivo,Sin Evento
+Cerveza Lager,5.79,Bebidas,2,58,2024-02-24,S021,Valencia,0,Sin Festivo,Sin Evento
+Cerveza Lager,2.95,Bebidas,3,130,2024-06-20,S034,Bilbao,0,Sin Festivo,Sin Evento
+Papel Higiénico,2.22,Higiene,3,22,2024-02-23,S008,Bilbao,0,Sin Festivo,Sin Evento
+Yogur Natural,1.73,Lácteos,4,3,2025-05-20,S031,Madrid,0,Sin Festivo,Sin Evento
+Leche Entera,1.81,Lácteos,0,10,2025-07-03,S030,Barcelona,0,Sin Festivo,Sin Evento
+Papel Higiénico,3.54,Higiene,4,19,2024-03-11,S019,Barcelona,0,Sin Festivo,Sin Evento
+Detergente Líquido,6.61,Limpieza,3,93,2025-08-14,S032,Murcia,0,Sin Festivo,Sin Evento
+Aceite de Oliva,5.23,Alimentación,2,67,2025-03-25,S013,Valencia,0,Sin Festivo,Sin Evento
+Protector Solar,10.38,Cuidado Personal,6,31,2024-09-27,S042,Zaragoza,1,Sin Festivo,Sin Evento
+Protector Solar,13.06,Cuidado Personal,0,48,2024-08-08,S003,Málaga,0,Sin Festivo,Sin Evento
+Pollo Fresco,11.03,Carnes,2,81,2025-12-22,S007,Zaragoza,0,Sin Festivo,Sin Evento
+Pan de Molde,1.77,Panadería,6,8,2025-12-18,S036,Bilbao,0,Sin Festivo,Sin Evento
+Aceite de Oliva,3.78,Alimentación,5,60,2025-03-25,S023,Málaga,0,Sin Festivo,Sin Evento
+Pan de Molde,2.2,Panadería,1,25,2024-04-28,S002,Zaragoza,1,Sin Festivo,Sin Evento
+Pasta Italiana,7.57,Alimentación,3,41,2024-03-19,S026,Madrid,0,Sin Festivo,Sin Evento
+Turrón de Almendras,2.5,Alimentación (Navidad),5,40,2025-11-01,S020,Málaga,1,Todos los Santos,Sin Evento
+Protector Solar,6.41,Cuidado Personal,4,39,2024-11-13,S050,Sevilla,0,Sin Festivo,Sin Evento
+Turrón de Almendras,15.37,Alimentación (Navidad),1,24,2024-05-13,S041,Málaga,0,Sin Festivo,Sin Evento
+Detergente Líquido,4.22,Limpieza,3,49,2024-02-13,S017,Bilbao,0,Sin Festivo,Sin Evento
+Turrón de Almendras,6.85,Alimentación (Navidad),3,28,2024-07-17,S004,Valencia,0,Sin Festivo,Sin Evento
+Turrón de Almendras,20.04,Alimentación (Navidad),4,34,2025-07-16,S007,Barcelona,0,Sin Festivo,Sin Evento
+Paraguas,7.25,Hogar,3,30,2025-07-22,S005,Alicante,0,Sin Festivo,Sin Evento
+Yogur Natural,2.32,Lácteos,2,104,2025-02-21,S003,Barcelona,0,Sin Festivo,Sin Evento
+Paraguas,6.76,Hogar,8,9,2024-09-06,S026,Madrid,1,Sin Festivo,Sin Evento
+Detergente Líquido,2.84,Limpieza,2,144,2025-01-27,S009,Málaga,0,Sin Festivo,Sin Evento
+Turrón de Almendras,23.78,Alimentación (Navidad),5,8,2024-08-03,S046,Sevilla,0,Sin Festivo,Sin Evento
+Protector Solar,4.73,Cuidado Personal,2,22,2025-05-07,S010,Madrid,0,Sin Festivo,Sin Evento
+Protector Solar,3.6,Cuidado Personal,4,40,2024-11-22,S018,Alicante,0,Sin Festivo,Sin Evento
+Protector Solar,14.79,Cuidado Personal,0,59,2025-02-10,S028,Bilbao,0,Sin Festivo,Sin Evento
+Aceite de Oliva,6.76,Alimentación,4,47,2024-07-06,S045,Málaga,0,Sin Festivo,Sin Evento
+Helado de Vainilla,4.22,Congelados,6,95,2024-03-12,S001,Valencia,0,Sin Festivo,Sin Evento
+Papel Higiénico,2.31,Higiene,5,42,2025-11-02,S041,Sevilla,1,Sin Festivo,Sin Evento
+Pasta Italiana,2.33,Alimentación,3,3,2024-09-01,S003,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Leche Entera,2.41,Lácteos,2,15,2025-03-03,S041,Madrid,0,Sin Festivo,Sin Evento
+Manzanas Fuji,1.89,Frutas y Verduras,9,122,2025-09-01,S024,Zaragoza,0,Sin Festivo,Sin Evento
+Aceite de Oliva,6.6,Alimentación,1,32,2024-02-22,S043,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Helado de Vainilla,7.34,Congelados,3,127,2025-06-24,S031,Alicante,0,Hogueras de San Juan,Sin Evento
+Pollo Fresco,4.49,Carnes,8,22,2025-12-01,S006,Málaga,0,Sin Festivo,Sin Evento
+Pan de Molde,1.2,Panadería,1,0,2025-09-14,S048,Alicante,0,Sin Festivo,Sin Evento
+Leche Entera,2.03,Lácteos,9,2,2024-09-08,S040,Alicante,1,Sin Festivo,Sin Evento
+Turrón de Almendras,21.53,Alimentación (Navidad),4,56,2025-11-17,S044,Málaga,0,Sin Festivo,Sin Evento
+Pollo Fresco,5.99,Carnes,4,51,2025-12-31,S020,Bilbao,0,Sin Festivo,Sin Evento
+Aceite de Oliva,8.6,Alimentación,2,4,2025-12-01,S050,Murcia,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,8.54,Bebidas,1,14,2024-10-06,S028,Zaragoza,0,Sin Festivo,Sin Evento
+Papel Higiénico,4.33,Higiene,3,35,2025-10-22,S007,Zaragoza,0,Sin Festivo,Sin Evento
+Pollo Fresco,3.67,Carnes,1,5,2025-09-27,S043,Alicante,1,Sin Festivo,Evento Deportivo Importante
+Manzanas Fuji,4.77,Frutas y Verduras,3,98,2024-11-20,S038,Sevilla,0,Sin Festivo,Sin Evento
+Detergente Líquido,6.76,Limpieza,1,173,2024-05-14,S050,Barcelona,0,Sin Festivo,Sin Evento
+Pasta Italiana,0.86,Alimentación,9,162,2025-05-20,S025,Sevilla,0,Sin Festivo,Sin Evento
+Turrón de Almendras,17.01,Alimentación (Navidad),1,38,2024-02-09,S048,Madrid,0,Sin Festivo,Evento Deportivo Importante
+Yogur Natural,1.7,Lácteos,13,113,2024-03-02,S013,Bilbao,1,Sin Festivo,Sin Evento
+Detergente Líquido,2.25,Limpieza,6,89,2025-02-09,S031,Murcia,0,Sin Festivo,Sin Evento
+Leche Entera,0.75,Lácteos,5,5,2024-11-13,S030,Alicante,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,4.32,Bebidas,5,66,2025-02-18,S039,Murcia,0,Sin Festivo,Sin Evento
+Protector Solar,7.63,Cuidado Personal,6,67,2024-03-30,S040,Madrid,1,Sin Festivo,Sin Evento
+Papel Higiénico,2.31,Higiene,3,52,2024-03-18,S008,Madrid,0,Sin Festivo,Sin Evento
+Turrón de Almendras,11.49,Alimentación (Navidad),29,25,2024-12-24,S004,Zaragoza,0,Sin Festivo,Sin Evento
+Paraguas,15.77,Hogar,0,2,2025-04-12,S047,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Leche Entera,3.49,Lácteos,0,55,2024-03-03,S011,Málaga,1,Sin Festivo,Sin Evento
+Detergente Líquido,2.0,Limpieza,3,181,2025-08-18,S035,Valencia,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,4.4,Bebidas,7,45,2024-03-14,S006,Murcia,0,Sin Festivo,Sin Evento
+Manzanas Fuji,0.84,Frutas y Verduras,10,36,2025-12-21,S026,Málaga,0,Sin Festivo,Sin Evento
+Leche Entera,1.69,Lácteos,14,40,2025-08-10,S038,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Pan de Molde,2.65,Panadería,0,0,2025-09-03,S025,Málaga,0,Sin Festivo,Sin Evento
+Protector Solar,3.25,Cuidado Personal,7,15,2024-02-05,S043,Sevilla,0,Sin Festivo,Sin Evento
+Detergente Líquido,3.51,Limpieza,5,92,2025-09-11,S050,Alicante,0,Sin Festivo,Sin Evento
+Protector Solar,6.92,Cuidado Personal,9,3,2025-03-14,S026,Sevilla,0,Sin Festivo,Sin Evento
+Leche Entera,2.03,Lácteos,2,35,2024-07-16,S033,Málaga,0,Sin Festivo,Sin Evento
+Pasta Italiana,7.11,Alimentación,4,181,2025-07-02,S004,Alicante,0,Sin Festivo,Festival de Música
+Protector Solar,13.32,Cuidado Personal,3,56,2024-07-27,S012,Málaga,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,6.94,Bebidas,3,68,2025-08-07,S023,Bilbao,0,Sin Festivo,Sin Evento
+Protector Solar,4.17,Cuidado Personal,8,51,2025-03-25,S034,Murcia,0,Sin Festivo,Sin Evento
+Protector Solar,9.03,Cuidado Personal,4,64,2024-02-09,S034,Bilbao,0,Sin Festivo,Sin Evento
+Helado de Vainilla,7.55,Congelados,2,117,2024-01-14,S035,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Manzanas Fuji,0.62,Frutas y Verduras,24,62,2025-02-08,S041,Zaragoza,1,Sin Festivo,Sin Evento
+Pasta Italiana,8.77,Alimentación,0,128,2024-10-14,S028,Murcia,0,Sin Festivo,Sin Evento
+Pan de Molde,1.27,Panadería,2,43,2025-11-07,S042,Murcia,0,Sin Festivo,Sin Evento
+Protector Solar,14.2,Cuidado Personal,0,31,2024-10-12,S007,Zaragoza,0,Fiesta Nacional de España,Sin Evento
+Pasta Italiana,0.51,Alimentación,19,72,2024-03-10,S013,Málaga,1,Sin Festivo,Sin Evento
+Turrón de Almendras,21.97,Alimentación (Navidad),3,45,2025-09-11,S041,Murcia,0,Sin Festivo,Sin Evento
+Manzanas Fuji,5.18,Frutas y Verduras,2,120,2025-01-02,S001,Zaragoza,0,Sin Festivo,Sin Evento
+Paraguas,12.16,Hogar,4,34,2024-09-17,S020,Zaragoza,0,Sin Festivo,Sin Evento
+Leche Entera,0.53,Lácteos,0,41,2024-09-05,S003,Zaragoza,0,Sin Festivo,Sin Evento
+Pan de Molde,2.5,Panadería,2,4,2024-06-06,S008,Alicante,0,Sin Festivo,Sin Evento
+Helado de Vainilla,3.52,Congelados,12,95,2024-06-16,S034,Valencia,1,Sin Festivo,Sin Evento
+Leche Entera,3.22,Lácteos,1,28,2024-11-16,S034,Valencia,1,Sin Festivo,Sin Evento
+Turrón de Almendras,12.9,Alimentación (Navidad),0,0,2025-07-17,S040,Málaga,0,Sin Festivo,Sin Evento
+Manzanas Fuji,4.83,Frutas y Verduras,2,11,2024-06-05,S016,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Papel Higiénico,0.69,Higiene,12,0,2025-12-26,S014,Málaga,1,Sin Festivo,Sin Evento
+Aceite de Oliva,7.88,Alimentación,5,14,2025-04-05,S042,Málaga,1,Sin Festivo,Sin Evento
+Detergente Líquido,1.87,Limpieza,14,45,2024-12-02,S022,Zaragoza,0,Sin Festivo,Sin Evento
+Paraguas,17.84,Hogar,3,22,2025-01-09,S032,Bilbao,0,Sin Festivo,Sin Evento
+Papel Higiénico,2.85,Higiene,2,42,2024-06-27,S050,Barcelona,0,Sin Festivo,Sin Evento
+Pollo Fresco,9.6,Carnes,1,2,2024-10-02,S014,Murcia,0,Sin Festivo,Sin Evento
+Cerveza Lager,7.17,Bebidas,5,100,2025-02-24,S006,Madrid,0,Sin Festivo,Sin Evento
+Helado de Vainilla,4.79,Congelados,2,27,2024-12-04,S044,Bilbao,0,Sin Festivo,Sin Evento
+Pan de Molde,0.77,Panadería,6,37,2024-10-13,S039,Sevilla,1,Sin Festivo,Sin Evento
+Manzanas Fuji,1.18,Frutas y Verduras,5,50,2024-05-17,S004,Valencia,1,Sin Festivo,Sin Evento
+Protector Solar,5.59,Cuidado Personal,6,3,2025-09-05,S007,Zaragoza,1,Sin Festivo,Sin Evento
+Cerveza Lager,10.22,Bebidas,1,13,2024-05-22,S034,Zaragoza,0,Sin Festivo,Sin Evento
+Cerveza Lager,4.91,Bebidas,1,120,2024-08-01,S016,Barcelona,0,Sin Festivo,Sin Evento
+Detergente Líquido,7.07,Limpieza,1,143,2024-07-08,S014,Sevilla,0,Sin Festivo,Sin Evento
+Leche Entera,2.43,Lácteos,4,1,2025-04-16,S017,Barcelona,0,Sin Festivo,Concierto Grande
+Turrón de Almendras,11.35,Alimentación (Navidad),5,26,2025-10-15,S044,Valencia,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,5.6,Bebidas,0,63,2025-04-06,S031,Zaragoza,1,Sin Festivo,Sin Evento
+Pan de Molde,1.36,Panadería,6,45,2025-06-12,S008,Zaragoza,0,Sin Festivo,Sin Evento
+Leche Entera,2.47,Lácteos,6,72,2025-06-06,S013,Madrid,0,Sin Festivo,Sin Evento
+Pollo Fresco,13.43,Carnes,3,6,2025-02-09,S039,Murcia,1,Sin Festivo,Sin Evento
+Pan de Molde,1.77,Panadería,15,28,2025-07-27,S024,Sevilla,1,Sin Festivo,Concierto Grande
+Papel Higiénico,2.28,Higiene,14,39,2024-08-03,S041,Sevilla,1,Sin Festivo,Sin Evento
+Pan de Molde,2.01,Panadería,3,52,2024-01-02,S007,Málaga,0,Sin Festivo,Sin Evento
+Leche Entera,0.83,Lácteos,7,31,2025-09-19,S049,Valencia,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,7.67,Bebidas,21,76,2025-03-23,S047,Alicante,1,Sin Festivo,Sin Evento
+Protector Solar,5.18,Cuidado Personal,7,45,2024-05-16,S032,Málaga,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.7,Higiene,5,0,2024-01-24,S006,Barcelona,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,3.79,Bebidas,24,80,2024-11-30,S011,Barcelona,1,Sin Festivo,Sin Evento
+Pasta Italiana,4.79,Alimentación,2,128,2025-11-12,S046,Murcia,0,Sin Festivo,Sin Evento
+Leche Entera,2.82,Lácteos,3,0,2025-06-25,S043,Valencia,0,Sin Festivo,Sin Evento
+Pasta Italiana,7.37,Alimentación,2,67,2024-09-19,S020,Zaragoza,0,Sin Festivo,Sin Evento
+Helado de Vainilla,5.08,Congelados,5,134,2024-06-15,S036,Bilbao,0,Sin Festivo,Sin Evento
+Paraguas,19.09,Hogar,0,12,2025-02-18,S039,Valencia,0,Sin Festivo,Sin Evento
+Protector Solar,10.75,Cuidado Personal,0,32,2024-03-05,S047,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pasta Italiana,8.93,Alimentación,0,127,2024-12-02,S035,Alicante,0,Sin Festivo,Sin Evento
+Pasta Italiana,2.09,Alimentación,2,170,2025-03-03,S040,Alicante,0,Sin Festivo,Sin Evento
+Cerveza Lager,6.37,Bebidas,2,84,2025-09-19,S012,Alicante,0,Sin Festivo,Sin Evento
+Helado de Vainilla,5.36,Congelados,3,19,2025-02-05,S046,Barcelona,0,Sin Festivo,Sin Evento
+Turrón de Almendras,23.58,Alimentación (Navidad),2,58,2024-06-14,S032,Alicante,0,Sin Festivo,Sin Evento
+Papel Higiénico,3.21,Higiene,7,44,2025-07-05,S016,Madrid,0,Sin Festivo,Sin Evento
+Aceite de Oliva,3.08,Alimentación,9,45,2024-08-04,S003,Sevilla,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,11.71,Bebidas,0,103,2024-06-13,S017,Valencia,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,2.2,Bebidas,5,64,2025-10-17,S017,Barcelona,1,Sin Festivo,Mercado Semanal
+Turrón de Almendras,1.75,Alimentación (Navidad),8,10,2025-06-28,S021,Barcelona,1,Sin Festivo,Sin Evento
+Paraguas,18.87,Hogar,2,40,2025-03-06,S017,Alicante,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,5.02,Bebidas,1,5,2024-02-24,S010,Murcia,1,Sin Festivo,Sin Evento
+Pasta Italiana,9.0,Alimentación,1,124,2025-12-25,S013,Sevilla,0,Navidad,Sin Evento
+Aceite de Oliva,1.29,Alimentación,7,44,2024-02-11,S033,Bilbao,1,Sin Festivo,Sin Evento
+Manzanas Fuji,1.7,Frutas y Verduras,6,125,2024-09-12,S032,Málaga,0,Sin Festivo,Sin Evento
+Manzanas Fuji,3.42,Frutas y Verduras,2,120,2024-05-09,S036,Sevilla,0,Sin Festivo,Sin Evento
+Yogur Natural,2.45,Lácteos,2,25,2024-07-04,S040,Málaga,0,Sin Festivo,Sin Evento
+Aceite de Oliva,1.63,Alimentación,4,104,2024-05-23,S008,Valencia,0,Sin Festivo,Sin Evento
+Detergente Líquido,6.65,Limpieza,0,61,2025-07-23,S033,Sevilla,0,Sin Festivo,Sin Evento
+Pasta Italiana,1.92,Alimentación,3,62,2025-12-24,S027,Alicante,0,Sin Festivo,Sin Evento
+Leche Entera,2.79,Lácteos,3,39,2025-09-24,S016,Barcelona,0,Sin Festivo,Sin Evento
+Protector Solar,10.71,Cuidado Personal,5,29,2025-07-03,S015,Alicante,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,6.42,Bebidas,4,2,2024-06-23,S048,Málaga,1,Sin Festivo,Sin Evento
+Turrón de Almendras,6.79,Alimentación (Navidad),4,51,2025-03-20,S003,Zaragoza,0,Sin Festivo,Sin Evento
+Pasta Italiana,4.76,Alimentación,3,23,2025-06-23,S015,Alicante,0,Sin Festivo,Sin Evento
+Cerveza Lager,8.34,Bebidas,6,27,2025-07-11,S030,Zaragoza,0,Sin Festivo,Sin Evento
+Pollo Fresco,2.91,Carnes,10,0,2025-05-17,S008,Zaragoza,1,Sin Festivo,Sin Evento
+Detergente Líquido,2.84,Limpieza,6,133,2025-06-18,S003,Bilbao,0,Sin Festivo,Concierto Grande
+Cerveza Lager,10.34,Bebidas,1,188,2024-12-23,S013,Barcelona,0,Sin Festivo,Sin Evento
+Protector Solar,6.24,Cuidado Personal,10,45,2025-03-08,S022,Bilbao,1,Sin Festivo,Sin Evento
+Detergente Líquido,6.73,Limpieza,3,41,2025-10-12,S049,Palma de Mallorca,0,Fiesta Nacional de España,Sin Evento
+Helado de Vainilla,7.85,Congelados,0,155,2025-06-16,S041,Sevilla,0,Sin Festivo,Sin Evento
+Pan de Molde,2.08,Panadería,2,20,2025-11-06,S044,Valencia,0,Sin Festivo,Sin Evento
+Manzanas Fuji,1.87,Frutas y Verduras,7,60,2025-08-26,S002,Bilbao,0,Sin Festivo,Sin Evento
+Detergente Líquido,1.4,Limpieza,2,145,2025-12-19,S024,Madrid,0,Sin Festivo,Sin Evento
+Paraguas,10.37,Hogar,36,12,2025-02-16,S035,Barcelona,1,Sin Festivo,Sin Evento
+Aceite de Oliva,9.58,Alimentación,0,100,2025-12-16,S036,Sevilla,0,Sin Festivo,Sin Evento
+Leche Entera,1.02,Lácteos,3,71,2024-09-25,S026,Madrid,0,Sin Festivo,Sin Evento
+Protector Solar,13.59,Cuidado Personal,2,51,2025-11-10,S032,Valencia,0,Sin Festivo,Sin Evento
+Cerveza Lager,10.89,Bebidas,1,102,2024-01-18,S002,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Aceite de Oliva,9.39,Alimentación,2,64,2025-08-19,S041,Zaragoza,0,Sin Festivo,Sin Evento
+Papel Higiénico,2.7,Higiene,7,49,2024-04-28,S020,Murcia,0,Sin Festivo,Sin Evento
+Aceite de Oliva,5.39,Alimentación,0,85,2024-10-08,S048,Barcelona,0,Sin Festivo,Sin Evento
+Pan de Molde,2.18,Panadería,0,44,2025-07-07,S025,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pan de Molde,2.59,Panadería,2,21,2025-09-25,S001,Sevilla,0,Sin Festivo,Sin Evento
+Protector Solar,11.54,Cuidado Personal,0,5,2025-11-04,S044,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Leche Entera,2.27,Lácteos,0,0,2025-11-27,S024,Alicante,0,Sin Festivo,Sin Evento
+Leche Entera,1.21,Lácteos,3,78,2024-11-15,S006,Valencia,1,Sin Festivo,Sin Evento
+Paraguas,19.12,Hogar,1,39,2025-04-10,S009,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Manzanas Fuji,0.97,Frutas y Verduras,5,19,2025-07-02,S042,Alicante,0,Sin Festivo,Sin Evento
+Turrón de Almendras,15.39,Alimentación (Navidad),3,3,2025-06-21,S016,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Papel Higiénico,3.39,Higiene,8,76,2024-09-15,S011,Málaga,1,Sin Festivo,Sin Evento
+Detergente Líquido,3.04,Limpieza,6,130,2025-04-09,S017,Sevilla,0,Sin Festivo,Sin Evento
+Protector Solar,5.05,Cuidado Personal,8,62,2025-10-13,S048,Málaga,0,Sin Festivo,Sin Evento
+Pan de Molde,1.73,Panadería,5,46,2025-08-21,S042,Alicante,0,Sin Festivo,Sin Evento
+Aceite de Oliva,0.75,Alimentación,0,20,2025-08-19,S034,Bilbao,0,Sin Festivo,Sin Evento
+Protector Solar,13.23,Cuidado Personal,2,20,2025-03-17,S011,Barcelona,0,Sin Festivo,Sin Evento
+Pasta Italiana,9.44,Alimentación,3,15,2025-06-24,S007,Sevilla,0,Sin Festivo,Sin Evento
+Protector Solar,13.27,Cuidado Personal,2,39,2024-01-15,S012,Zaragoza,0,Sin Festivo,Sin Evento
+Protector Solar,5.67,Cuidado Personal,10,48,2024-01-21,S029,Valencia,1,Sin Festivo,Sin Evento
+Helado de Vainilla,8.3,Congelados,1,114,2025-03-21,S026,Valencia,1,Sin Festivo,Sin Evento
+Leche Entera,0.85,Lácteos,0,47,2025-06-14,S005,Zaragoza,0,Sin Festivo,Sin Evento
+Helado de Vainilla,3.03,Congelados,7,87,2025-09-14,S034,Valencia,1,Sin Festivo,Sin Evento
+Cerveza Lager,4.13,Bebidas,2,141,2025-12-05,S042,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Pollo Fresco,2.92,Carnes,1,51,2025-08-27,S040,Málaga,0,Sin Festivo,Sin Evento
+Leche Entera,1.1,Lácteos,7,51,2024-02-03,S038,Alicante,0,Sin Festivo,Sin Evento
+Helado de Vainilla,5.97,Congelados,0,141,2024-07-23,S048,Murcia,0,Sin Festivo,Sin Evento
+Pan de Molde,1.4,Panadería,6,33,2025-02-22,S028,Alicante,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.48,Higiene,0,9,2024-04-17,S010,Málaga,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,11.78,Bebidas,1,39,2024-09-24,S013,Málaga,0,Sin Festivo,Sin Evento
+Pan de Molde,2.35,Panadería,2,44,2025-10-07,S040,Alicante,0,Sin Festivo,Sin Evento
+Yogur Natural,2.28,Lácteos,4,21,2024-03-01,S024,Málaga,0,Sin Festivo,Sin Evento
+Pollo Fresco,14.73,Carnes,0,9,2025-07-21,S049,Barcelona,0,Sin Festivo,Sin Evento
+Turrón de Almendras,15.77,Alimentación (Navidad),1,40,2024-01-12,S050,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Helado de Vainilla,1.58,Congelados,3,57,2025-09-03,S032,Barcelona,0,Sin Festivo,Sin Evento
+Pan de Molde,1.47,Panadería,10,8,2024-01-13,S022,Bilbao,1,Sin Festivo,Sin Evento
+Protector Solar,9.21,Cuidado Personal,5,59,2024-12-05,S003,Alicante,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,8.77,Bebidas,6,14,2025-06-02,S008,Alicante,0,Sin Festivo,Sin Evento
+Cerveza Lager,7.61,Bebidas,0,25,2024-08-16,S048,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Cerveza Lager,1.82,Bebidas,12,0,2024-01-28,S035,Bilbao,1,Sin Festivo,Sin Evento
+Cerveza Lager,7.19,Bebidas,21,0,2025-01-19,S025,Sevilla,1,Sin Festivo,Sin Evento
+Helado de Vainilla,8.64,Congelados,4,62,2024-05-11,S038,Alicante,0,Sin Festivo,Sin Evento
+Leche Entera,0.47,Lácteos,8,12,2025-07-11,S042,Valencia,1,Sin Festivo,Sin Evento
+Turrón de Almendras,6.75,Alimentación (Navidad),8,8,2025-08-26,S047,Murcia,0,Sin Festivo,Sin Evento
+Papel Higiénico,2.48,Higiene,2,18,2025-10-31,S023,Málaga,1,Sin Festivo,Sin Evento
+Pasta Italiana,7.1,Alimentación,2,11,2024-03-04,S036,Valencia,0,Sin Festivo,Sin Evento
+Paraguas,9.54,Hogar,2,5,2025-04-21,S033,Barcelona,0,Sin Festivo,Sin Evento
+Turrón de Almendras,14.03,Alimentación (Navidad),1,13,2024-06-09,S038,Bilbao,0,Sin Festivo,Sin Evento
+Aceite de Oliva,2.11,Alimentación,4,88,2025-03-06,S039,Zaragoza,0,Sin Festivo,Sin Evento
+Papel Higiénico,5.82,Higiene,4,37,2024-09-15,S019,Barcelona,1,Sin Festivo,Sin Evento
+Leche Entera,1.46,Lácteos,1,59,2024-02-07,S029,Alicante,0,Sin Festivo,Sin Evento
+Aceite de Oliva,4.44,Alimentación,6,61,2025-11-11,S039,Murcia,0,Sin Festivo,Sin Evento
+Pan de Molde,0.62,Panadería,1,45,2024-10-26,S025,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Protector Solar,13.87,Cuidado Personal,2,8,2024-01-04,S007,Valencia,0,Sin Festivo,Sin Evento
+Aceite de Oliva,5.89,Alimentación,7,40,2024-09-07,S024,Bilbao,1,Sin Festivo,Sin Evento
+Cerveza Lager,10.41,Bebidas,1,0,2024-03-30,S050,Madrid,1,Sin Festivo,Sin Evento
+Paraguas,6.21,Hogar,7,3,2025-06-13,S004,Valencia,0,Sin Festivo,Sin Evento
+Pollo Fresco,5.19,Carnes,5,51,2025-09-02,S004,Alicante,0,Sin Festivo,Sin Evento
+Turrón de Almendras,10.48,Alimentación (Navidad),1,0,2025-04-19,S047,Zaragoza,1,Sin Festivo,Sin Evento
+Cerveza Lager,8.92,Bebidas,3,85,2024-08-27,S030,Zaragoza,0,Sin Festivo,Sin Evento
+Cerveza Lager,3.72,Bebidas,0,79,2025-06-23,S043,Málaga,0,Sin Festivo,Sin Evento
+Detergente Líquido,1.62,Limpieza,6,127,2024-04-19,S001,Valencia,1,Sin Festivo,Sin Evento
+Yogur Natural,1.88,Lácteos,12,19,2024-03-10,S004,Alicante,1,Sin Festivo,Sin Evento
+Aceite de Oliva,4.8,Alimentación,16,73,2025-01-04,S025,Barcelona,1,Sin Festivo,Sin Evento
+Turrón de Almendras,2.03,Alimentación (Navidad),22,14,2025-09-28,S004,Barcelona,1,Sin Festivo,Sin Evento
+Cerveza Lager,4.5,Bebidas,15,137,2024-01-20,S032,Sevilla,1,Sin Festivo,Sin Evento
+Detergente Líquido,2.35,Limpieza,1,118,2025-08-29,S031,Alicante,1,Sin Festivo,Evento Deportivo Importante
+Helado de Vainilla,5.93,Congelados,1,109,2025-08-18,S042,Alicante,0,Sin Festivo,Sin Evento
+Papel Higiénico,4.38,Higiene,0,41,2024-10-10,S009,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Detergente Líquido,2.98,Limpieza,42,23,2024-09-21,S042,Valencia,1,Sin Festivo,Festival de Música
+Turrón de Almendras,17.02,Alimentación (Navidad),5,54,2024-01-02,S004,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Paraguas,11.4,Hogar,5,4,2024-04-08,S007,Alicante,0,Sin Festivo,Sin Evento
+Turrón de Almendras,11.09,Alimentación (Navidad),13,50,2025-06-29,S048,Zaragoza,1,Sin Festivo,Sin Evento
+Detergente Líquido,6.61,Limpieza,1,110,2024-09-18,S023,Murcia,0,Sin Festivo,Sin Evento
+Aceite de Oliva,4.38,Alimentación,10,0,2024-08-31,S044,Barcelona,1,Sin Festivo,Sin Evento
+Protector Solar,12.9,Cuidado Personal,4,55,2024-03-24,S033,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Helado de Vainilla,2.77,Congelados,17,107,2025-05-31,S039,Madrid,1,Sin Festivo,Sin Evento
+Helado de Vainilla,2.62,Congelados,11,28,2025-01-02,S045,Zaragoza,0,Sin Festivo,Sin Evento
+Helado de Vainilla,3.51,Congelados,7,89,2024-02-08,S036,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pollo Fresco,2.97,Carnes,2,62,2024-03-21,S038,Zaragoza,0,Sin Festivo,Sin Evento
+Pasta Italiana,1.74,Alimentación,11,174,2025-11-01,S020,Palma de Mallorca,0,Todos los Santos,Sin Evento
+Detergente Líquido,2.12,Limpieza,5,78,2024-11-05,S043,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pan de Molde,2.5,Panadería,2,28,2024-10-02,S017,Murcia,0,Sin Festivo,Sin Evento
+Pollo Fresco,8.52,Carnes,2,43,2025-07-19,S020,Zaragoza,1,Sin Festivo,Sin Evento
+Protector Solar,10.12,Cuidado Personal,0,52,2025-05-07,S027,Valencia,0,Sin Festivo,Sin Evento
+Yogur Natural,0.85,Lácteos,6,115,2025-12-10,S025,Bilbao,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,7.06,Bebidas,8,65,2025-12-08,S016,Palma de Mallorca,0,Inmaculada Concepción,Sin Evento
+Pan de Molde,0.92,Panadería,4,5,2024-01-10,S023,Bilbao,0,Sin Festivo,Sin Evento
+Helado de Vainilla,4.81,Congelados,2,154,2025-08-20,S028,Madrid,0,Sin Festivo,Evento Deportivo Importante
+Manzanas Fuji,5.61,Frutas y Verduras,2,147,2024-10-08,S027,Madrid,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.74,Higiene,11,46,2024-01-21,S050,Zaragoza,0,Sin Festivo,Sin Evento
+Pollo Fresco,9.41,Carnes,6,70,2024-07-29,S017,Madrid,0,Sin Festivo,Sin Evento
+Yogur Natural,2.74,Lácteos,3,73,2025-04-16,S041,Barcelona,0,Sin Festivo,Sin Evento
+Aceite de Oliva,9.74,Alimentación,0,47,2025-09-15,S019,Valencia,0,Sin Festivo,Mercado Semanal
+Vino Tinto Rioja,10.82,Bebidas,2,20,2025-04-01,S014,Madrid,0,Sin Festivo,Sin Evento
+Turrón de Almendras,4.11,Alimentación (Navidad),5,0,2024-09-10,S031,Alicante,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.24,Higiene,3,7,2024-08-27,S016,Bilbao,0,Sin Festivo,Sin Evento
+Paraguas,18.02,Hogar,2,29,2025-10-23,S039,Barcelona,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.81,Congelados,0,44,2025-11-14,S044,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pan de Molde,1.92,Panadería,4,44,2025-12-21,S032,Barcelona,1,Sin Festivo,Sin Evento
+Helado de Vainilla,5.49,Congelados,2,33,2025-04-25,S011,Málaga,0,Sin Festivo,Sin Evento
+Pasta Italiana,8.15,Alimentación,0,134,2024-10-17,S046,Barcelona,0,Sin Festivo,Sin Evento
+Manzanas Fuji,3.85,Frutas y Verduras,11,150,2024-03-16,S043,Zaragoza,0,Sin Festivo,Sin Evento
+Papel Higiénico,5.59,Higiene,2,79,2025-05-22,S028,Zaragoza,0,Sin Festivo,Sin Evento
+Detergente Líquido,4.19,Limpieza,5,180,2025-02-25,S035,Murcia,0,Sin Festivo,Sin Evento
+Cerveza Lager,4.06,Bebidas,11,84,2024-04-13,S031,Bilbao,1,Sin Festivo,Sin Evento
+Manzanas Fuji,3.07,Frutas y Verduras,3,100,2025-12-07,S027,Málaga,0,Sin Festivo,Sin Evento
+Manzanas Fuji,2.42,Frutas y Verduras,1,78,2025-04-18,S036,Palma de Mallorca,0,Viernes Santo,Sin Evento
+Manzanas Fuji,4.55,Frutas y Verduras,3,94,2025-08-22,S015,Málaga,0,Sin Festivo,Sin Evento
+Helado de Vainilla,4.1,Congelados,7,60,2025-07-10,S045,Málaga,0,Sin Festivo,Sin Evento
+Aceite de Oliva,4.93,Alimentación,0,33,2024-02-07,S027,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Yogur Natural,2.0,Lácteos,8,95,2024-09-22,S028,Murcia,1,Sin Festivo,Sin Evento
+Papel Higiénico,3.44,Higiene,4,21,2025-09-15,S012,Madrid,0,Sin Festivo,Sin Evento
+Pasta Italiana,6.18,Alimentación,0,59,2024-11-05,S044,Sevilla,0,Sin Festivo,Sin Evento
+Helado de Vainilla,8.12,Congelados,2,55,2025-04-26,S034,Madrid,1,Sin Festivo,Sin Evento
+Helado de Vainilla,3.99,Congelados,7,48,2025-11-10,S006,Alicante,0,Sin Festivo,Sin Evento
+Yogur Natural,2.57,Lácteos,4,61,2025-11-20,S006,Alicante,0,Sin Festivo,Sin Evento
+Cerveza Lager,11.96,Bebidas,1,173,2024-03-25,S042,Bilbao,0,Sin Festivo,Sin Evento
+Papel Higiénico,3.86,Higiene,7,68,2025-06-21,S003,Valencia,0,Sin Festivo,Sin Evento
+Pollo Fresco,10.53,Carnes,5,60,2025-01-02,S033,Barcelona,0,Sin Festivo,Sin Evento
+Leche Entera,2.92,Lácteos,1,45,2025-12-28,S045,Sevilla,0,Sin Festivo,Sin Evento
+Pollo Fresco,10.42,Carnes,0,70,2024-10-03,S029,Barcelona,0,Sin Festivo,Sin Evento
+Leche Entera,1.86,Lácteos,5,15,2024-02-27,S044,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pan de Molde,0.49,Panadería,5,0,2025-10-24,S001,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,4.33,Bebidas,4,58,2025-11-25,S016,Alicante,0,Sin Festivo,Sin Evento
+Yogur Natural,2.45,Lácteos,0,5,2025-07-10,S040,Murcia,0,Sin Festivo,Sin Evento
+Detergente Líquido,2.04,Limpieza,9,163,2024-06-27,S012,Málaga,0,Sin Festivo,Sin Evento
+Manzanas Fuji,4.03,Frutas y Verduras,1,72,2025-02-04,S022,Málaga,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.51,Congelados,9,107,2025-11-08,S043,Madrid,1,Sin Festivo,Sin Evento
+Pasta Italiana,1.8,Alimentación,5,159,2025-11-25,S037,Bilbao,0,Sin Festivo,Sin Evento
+Yogur Natural,3.47,Lácteos,0,27,2025-08-06,S031,Bilbao,0,Sin Festivo,Sin Evento
+Pollo Fresco,7.15,Carnes,6,0,2025-01-05,S049,Valencia,1,Sin Festivo,Evento Deportivo Importante
+Paraguas,13.98,Hogar,1,37,2024-12-03,S007,Sevilla,0,Sin Festivo,Sin Evento
+Paraguas,9.66,Hogar,7,38,2025-09-29,S049,Málaga,0,Sin Festivo,Sin Evento
+Pasta Italiana,1.13,Alimentación,12,48,2025-06-05,S015,Madrid,0,Sin Festivo,Sin Evento
+Yogur Natural,0.51,Lácteos,0,26,2025-12-16,S003,Madrid,0,Sin Festivo,Sin Evento
+Pan de Molde,2.64,Panadería,5,8,2024-03-02,S034,Sevilla,1,Sin Festivo,Sin Evento
+Pan de Molde,2.35,Panadería,1,47,2024-05-08,S023,Bilbao,0,Sin Festivo,Sin Evento
+Detergente Líquido,5.28,Limpieza,11,69,2024-12-22,S025,Zaragoza,0,Sin Festivo,Sin Evento
+Yogur Natural,2.61,Lácteos,2,86,2024-12-05,S018,Barcelona,0,Sin Festivo,Sin Evento
+Manzanas Fuji,3.22,Frutas y Verduras,3,124,2025-06-27,S024,Bilbao,0,Sin Festivo,Sin Evento
+Leche Entera,3.41,Lácteos,2,9,2025-07-17,S024,Zaragoza,0,Sin Festivo,Sin Evento
+Paraguas,11.8,Hogar,8,21,2024-10-06,S044,Bilbao,1,Sin Festivo,Sin Evento
+Cerveza Lager,5.14,Bebidas,6,109,2025-09-20,S032,Barcelona,1,Sin Festivo,Sin Evento
+Turrón de Almendras,20.8,Alimentación (Navidad),0,33,2024-01-10,S001,Bilbao,0,Sin Festivo,Sin Evento
+Cerveza Lager,5.61,Bebidas,0,177,2025-12-24,S005,Murcia,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,2.36,Bebidas,0,77,2024-03-25,S039,Valencia,0,Sin Festivo,Sin Evento
+Yogur Natural,1.32,Lácteos,3,0,2025-02-17,S038,Sevilla,0,Sin Festivo,Sin Evento
+Turrón de Almendras,6.11,Alimentación (Navidad),18,0,2024-04-07,S014,Zaragoza,1,Sin Festivo,Sin Evento
+Turrón de Almendras,19.53,Alimentación (Navidad),3,54,2024-10-02,S003,Valencia,0,Sin Festivo,Sin Evento
+Protector Solar,9.34,Cuidado Personal,0,49,2024-02-26,S045,Barcelona,0,Sin Festivo,Sin Evento
+Manzanas Fuji,4.33,Frutas y Verduras,0,162,2025-11-19,S038,Sevilla,0,Sin Festivo,Sin Evento
+Turrón de Almendras,10.18,Alimentación (Navidad),4,27,2025-09-14,S042,Madrid,1,Sin Festivo,Sin Evento
+Pan de Molde,1.92,Panadería,3,9,2025-09-08,S020,Sevilla,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.49,Congelados,2,138,2025-02-07,S049,Valencia,0,Sin Festivo,Sin Evento
+Turrón de Almendras,10.82,Alimentación (Navidad),5,17,2024-01-05,S019,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Detergente Líquido,5.05,Limpieza,3,112,2025-12-19,S012,Sevilla,0,Sin Festivo,Sin Evento
+Manzanas Fuji,1.08,Frutas y Verduras,8,5,2024-11-23,S043,Zaragoza,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,4.35,Bebidas,4,45,2024-06-17,S008,Málaga,0,Sin Festivo,Sin Evento
+Cerveza Lager,2.43,Bebidas,3,0,2024-04-07,S036,Sevilla,1,Sin Festivo,Sin Evento
+Turrón de Almendras,20.26,Alimentación (Navidad),0,47,2024-09-26,S022,Alicante,0,Sin Festivo,Sin Evento
+Manzanas Fuji,4.9,Frutas y Verduras,5,124,2024-04-20,S037,Valencia,0,Sin Festivo,Sin Evento
+Detergente Líquido,1.47,Limpieza,2,136,2024-09-05,S048,Zaragoza,0,Sin Festivo,Sin Evento
+Helado de Vainilla,4.72,Congelados,4,86,2025-06-18,S038,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,5.51,Bebidas,7,9,2024-06-22,S023,Barcelona,0,Sin Festivo,Sin Evento
+Pasta Italiana,8.58,Alimentación,1,97,2024-03-27,S048,Sevilla,0,Sin Festivo,Sin Evento
+Turrón de Almendras,9.5,Alimentación (Navidad),5,0,2025-10-26,S042,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Leche Entera,1.02,Lácteos,2,64,2024-10-29,S023,Sevilla,0,Sin Festivo,Sin Evento
+Pan de Molde,2.79,Panadería,2,47,2024-06-06,S031,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Turrón de Almendras,18.39,Alimentación (Navidad),3,50,2025-09-18,S038,Bilbao,0,Sin Festivo,Sin Evento
+Detergente Líquido,2.41,Limpieza,1,124,2024-06-11,S028,Murcia,0,Sin Festivo,Sin Evento
+Yogur Natural,2.69,Lácteos,4,36,2024-01-10,S050,Alicante,0,Sin Festivo,Sin Evento
+Cerveza Lager,3.03,Bebidas,11,0,2024-08-30,S023,Sevilla,1,Sin Festivo,Sin Evento
+Papel Higiénico,1.99,Higiene,4,69,2025-01-20,S027,Madrid,0,Sin Festivo,Sin Evento
+Pollo Fresco,3.28,Carnes,24,22,2024-07-13,S008,Alicante,1,Sin Festivo,Sin Evento
+Paraguas,10.66,Hogar,0,0,2024-06-04,S039,Zaragoza,0,Sin Festivo,Sin Evento
+Turrón de Almendras,3.23,Alimentación (Navidad),4,21,2024-11-25,S036,Alicante,0,Sin Festivo,Sin Evento
+Protector Solar,9.78,Cuidado Personal,1,6,2024-08-11,S036,Bilbao,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,9.47,Bebidas,3,76,2025-09-19,S042,Zaragoza,1,Sin Festivo,Sin Evento
+Cerveza Lager,9.81,Bebidas,5,55,2025-01-27,S042,Murcia,0,Sin Festivo,Sin Evento
+Pan de Molde,1.71,Panadería,4,1,2025-02-21,S049,Málaga,0,Sin Festivo,Sin Evento
+Pasta Italiana,9.8,Alimentación,1,192,2025-11-06,S039,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Leche Entera,1.23,Lácteos,4,41,2025-09-28,S018,Bilbao,1,Sin Festivo,Sin Evento
+Turrón de Almendras,18.97,Alimentación (Navidad),2,7,2025-01-11,S049,Sevilla,0,Sin Festivo,Sin Evento
+Helado de Vainilla,8.71,Congelados,1,109,2024-05-18,S025,Murcia,1,Sin Festivo,Sin Evento
+Manzanas Fuji,2.52,Frutas y Verduras,32,20,2025-05-02,S023,Madrid,1,Día de la Comunidad de Madrid,Sin Evento
+Vino Tinto Rioja,1.15,Bebidas,5,37,2024-02-13,S034,Bilbao,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,9.96,Bebidas,2,50,2024-11-27,S046,Murcia,0,Sin Festivo,Sin Evento
+Cerveza Lager,5.46,Bebidas,3,75,2025-03-16,S031,Málaga,1,Sin Festivo,Sin Evento
+Cerveza Lager,3.08,Bebidas,3,88,2025-12-23,S042,Valencia,0,Sin Festivo,Sin Evento
+Cerveza Lager,5.8,Bebidas,6,48,2024-05-29,S048,Madrid,0,Sin Festivo,Concierto Grande
+Yogur Natural,3.0,Lácteos,3,59,2025-08-27,S033,Zaragoza,0,Sin Festivo,Sin Evento
+Papel Higiénico,4.34,Higiene,2,79,2024-08-15,S027,Madrid,0,Asunción de la Virgen,Sin Evento
+Vino Tinto Rioja,8.67,Bebidas,3,15,2025-05-22,S045,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Aceite de Oliva,5.88,Alimentación,5,10,2024-02-16,S002,Barcelona,1,Sin Festivo,Sin Evento
+Pan de Molde,0.52,Panadería,13,37,2024-02-25,S015,Sevilla,1,Sin Festivo,Sin Evento
+Pan de Molde,1.45,Panadería,5,36,2024-05-28,S049,Bilbao,0,Sin Festivo,Sin Evento
+Yogur Natural,2.04,Lácteos,0,2,2024-11-28,S034,Valencia,0,Sin Festivo,Sin Evento
+Pasta Italiana,7.7,Alimentación,7,31,2024-07-27,S050,Murcia,0,Sin Festivo,Sin Evento
+Cerveza Lager,8.26,Bebidas,10,24,2025-07-01,S044,Valencia,0,Sin Festivo,Sin Evento
+Cerveza Lager,2.13,Bebidas,6,10,2025-11-28,S020,Bilbao,1,Sin Festivo,Sin Evento
+Cerveza Lager,7.76,Bebidas,1,149,2024-08-05,S043,Bilbao,0,Sin Festivo,Sin Evento
+Pollo Fresco,4.95,Carnes,6,8,2024-09-06,S014,Murcia,0,Sin Festivo,Sin Evento
+Protector Solar,8.15,Cuidado Personal,2,0,2025-12-18,S013,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Yogur Natural,3.25,Lácteos,2,52,2024-12-24,S031,Murcia,0,Sin Festivo,Sin Evento
+Aceite de Oliva,0.75,Alimentación,20,47,2024-06-21,S048,Málaga,1,Sin Festivo,Sin Evento
+Turrón de Almendras,4.63,Alimentación (Navidad),3,23,2025-11-08,S014,Madrid,0,Sin Festivo,Sin Evento
+Helado de Vainilla,4.48,Congelados,3,58,2025-10-17,S002,Bilbao,1,Sin Festivo,Sin Evento
+Helado de Vainilla,5.57,Congelados,1,9,2025-05-25,S043,Valencia,1,Sin Festivo,Sin Evento
+Paraguas,18.9,Hogar,0,7,2024-03-09,S027,Málaga,0,Sin Festivo,Sin Evento
+Pollo Fresco,7.76,Carnes,1,76,2025-04-06,S013,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Leche Entera,2.58,Lácteos,2,66,2024-06-19,S024,Valencia,0,Sin Festivo,Sin Evento
+Pasta Italiana,7.67,Alimentación,3,113,2024-07-23,S002,Murcia,0,Sin Festivo,Sin Evento
+Detergente Líquido,4.8,Limpieza,2,28,2024-07-05,S016,Zaragoza,1,Sin Festivo,Sin Evento
+Turrón de Almendras,9.47,Alimentación (Navidad),6,11,2024-04-09,S007,Alicante,0,Sin Festivo,Sin Evento
+Detergente Líquido,5.02,Limpieza,8,64,2024-12-21,S013,Barcelona,0,Sin Festivo,Sin Evento
+Protector Solar,8.89,Cuidado Personal,4,40,2024-04-19,S044,Zaragoza,1,Sin Festivo,Sin Evento
+Leche Entera,1.12,Lácteos,6,52,2025-10-08,S007,Zaragoza,0,Sin Festivo,Sin Evento
+Yogur Natural,1.25,Lácteos,9,0,2024-05-19,S002,Barcelona,0,Sin Festivo,Sin Evento
+Leche Entera,0.58,Lácteos,8,67,2025-06-15,S005,Alicante,0,Sin Festivo,Sin Evento
+Detergente Líquido,7.51,Limpieza,4,51,2025-07-26,S022,Barcelona,0,Sin Festivo,Sin Evento
+Pollo Fresco,4.91,Carnes,5,5,2024-01-01,S018,Valencia,0,Año Nuevo,Sin Evento
+Protector Solar,3.9,Cuidado Personal,2,39,2025-02-04,S023,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.09,Higiene,6,74,2024-12-20,S049,Alicante,1,Sin Festivo,Sin Evento
+Manzanas Fuji,3.77,Frutas y Verduras,5,39,2024-07-26,S021,Sevilla,1,Sin Festivo,Concierto Grande
+Pan de Molde,2.63,Panadería,2,13,2024-09-26,S044,Alicante,0,Sin Festivo,Sin Evento
+Paraguas,9.21,Hogar,3,45,2025-08-20,S042,Sevilla,0,Sin Festivo,Sin Evento
+Pan de Molde,2.03,Panadería,2,27,2025-11-25,S040,Murcia,0,Sin Festivo,Sin Evento
+Protector Solar,8.44,Cuidado Personal,6,0,2025-06-15,S018,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Helado de Vainilla,6.85,Congelados,2,129,2024-06-06,S044,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Cerveza Lager,4.37,Bebidas,5,150,2025-07-23,S041,Bilbao,0,Sin Festivo,Sin Evento
+Detergente Líquido,7.26,Limpieza,0,184,2025-02-27,S038,Bilbao,0,Sin Festivo,Sin Evento
+Leche Entera,1.4,Lácteos,2,15,2024-03-23,S049,Barcelona,0,Sin Festivo,Sin Evento
+Paraguas,15.81,Hogar,5,37,2024-11-09,S050,Barcelona,0,Sin Festivo,Sin Evento
+Pan de Molde,2.79,Panadería,0,50,2024-08-29,S021,Alicante,0,Sin Festivo,Sin Evento
+Aceite de Oliva,4.66,Alimentación,2,109,2024-11-15,S041,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Manzanas Fuji,5.66,Frutas y Verduras,0,115,2024-12-25,S028,Málaga,0,Navidad,Sin Evento
+Papel Higiénico,2.25,Higiene,2,50,2025-08-09,S044,Madrid,1,Sin Festivo,Sin Evento
+Aceite de Oliva,8.44,Alimentación,4,97,2024-04-14,S011,Málaga,1,Sin Festivo,Sin Evento
+Turrón de Almendras,21.61,Alimentación (Navidad),0,44,2024-10-02,S045,Valencia,0,Sin Festivo,Feria Local
+Papel Higiénico,5.17,Higiene,1,33,2024-02-04,S012,Málaga,1,Sin Festivo,Sin Evento
+Cerveza Lager,4.66,Bebidas,3,52,2025-10-26,S036,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Detergente Líquido,5.89,Limpieza,2,131,2024-06-12,S031,Sevilla,0,Sin Festivo,Sin Evento
+Turrón de Almendras,20.24,Alimentación (Navidad),0,0,2025-01-25,S050,Alicante,1,Sin Festivo,Sin Evento
+Cerveza Lager,2.18,Bebidas,4,20,2024-08-16,S008,Barcelona,1,Sin Festivo,Sin Evento
+Aceite de Oliva,1.66,Alimentación,0,19,2025-10-20,S034,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Detergente Líquido,2.1,Limpieza,1,165,2025-11-28,S039,Murcia,1,Sin Festivo,Sin Evento
+Cerveza Lager,3.44,Bebidas,6,47,2024-08-29,S017,Barcelona,0,Sin Festivo,Feria Local
+Cerveza Lager,4.56,Bebidas,6,12,2024-04-26,S040,Alicante,0,Sin Festivo,Sin Evento
+Cerveza Lager,11.27,Bebidas,1,26,2025-04-04,S041,Madrid,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,8.8,Bebidas,6,11,2024-11-13,S048,Murcia,0,Sin Festivo,Sin Evento
+Yogur Natural,3.49,Lácteos,0,129,2025-04-10,S020,Valencia,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.47,Higiene,18,25,2024-04-12,S048,Bilbao,1,Sin Festivo,Sin Evento
+Paraguas,8.52,Hogar,0,21,2025-01-29,S005,Madrid,0,Sin Festivo,Sin Evento
+Pan de Molde,0.7,Panadería,1,49,2024-03-20,S038,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Manzanas Fuji,2.31,Frutas y Verduras,3,160,2025-06-24,S020,Sevilla,0,Sin Festivo,Sin Evento
+Pasta Italiana,9.27,Alimentación,1,122,2025-12-11,S014,Murcia,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,10.83,Bebidas,1,26,2024-07-02,S043,Valencia,0,Sin Festivo,Sin Evento
+Yogur Natural,0.95,Lácteos,11,80,2024-01-26,S009,Madrid,0,Sin Festivo,Sin Evento
+Pan de Molde,1.1,Panadería,7,18,2025-06-08,S028,Madrid,1,Sin Festivo,Sin Evento
+Cerveza Lager,11.5,Bebidas,2,90,2025-04-29,S006,Zaragoza,0,Sin Festivo,Sin Evento
+Pollo Fresco,10.6,Carnes,2,46,2025-12-05,S006,Murcia,0,Sin Festivo,Sin Evento
+Aceite de Oliva,1.25,Alimentación,6,48,2025-05-29,S023,Barcelona,0,Sin Festivo,Sin Evento
+Helado de Vainilla,8.05,Congelados,0,0,2025-09-30,S017,Málaga,0,Sin Festivo,Sin Evento
+Protector Solar,9.28,Cuidado Personal,5,0,2025-06-01,S017,Murcia,0,Sin Festivo,Sin Evento
+Pollo Fresco,8.62,Carnes,0,60,2024-10-03,S037,Málaga,0,Sin Festivo,Sin Evento
+Manzanas Fuji,5.2,Frutas y Verduras,3,156,2025-08-19,S014,Valencia,0,Sin Festivo,Feria Local
+Pollo Fresco,11.96,Carnes,2,4,2025-05-06,S041,Sevilla,0,Sin Festivo,Sin Evento
+Turrón de Almendras,17.7,Alimentación (Navidad),0,34,2025-04-07,S035,Bilbao,0,Sin Festivo,Sin Evento
+Turrón de Almendras,24.93,Alimentación (Navidad),0,25,2024-06-12,S046,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Aceite de Oliva,4.8,Alimentación,5,98,2024-10-21,S022,Barcelona,0,Sin Festivo,Sin Evento
+Turrón de Almendras,12.22,Alimentación (Navidad),0,53,2025-09-16,S047,Murcia,0,Sin Festivo,Sin Evento
+Pan de Molde,2.09,Panadería,5,21,2024-03-11,S050,Madrid,0,Sin Festivo,Sin Evento
+Leche Entera,0.58,Lácteos,7,46,2024-07-13,S045,Madrid,1,Sin Festivo,Sin Evento
+Cerveza Lager,11.85,Bebidas,2,161,2025-01-09,S036,Málaga,0,Sin Festivo,Sin Evento
+Protector Solar,7.39,Cuidado Personal,1,12,2024-08-31,S004,Alicante,1,Sin Festivo,Sin Evento
+Helado de Vainilla,4.71,Congelados,19,83,2025-09-07,S032,Barcelona,1,Sin Festivo,Sin Evento
+Aceite de Oliva,5.65,Alimentación,7,4,2025-05-06,S024,Barcelona,0,Sin Festivo,Sin Evento
+Turrón de Almendras,12.34,Alimentación (Navidad),3,0,2025-09-22,S028,Zaragoza,0,Sin Festivo,Sin Evento
+Pan de Molde,1.59,Panadería,5,48,2024-08-08,S038,Barcelona,0,Sin Festivo,Sin Evento
+Yogur Natural,3.0,Lácteos,3,45,2025-11-17,S010,Murcia,0,Sin Festivo,Sin Evento
+Pasta Italiana,7.27,Alimentación,3,165,2024-07-05,S015,Madrid,1,Sin Festivo,Sin Evento
+Paraguas,15.11,Hogar,5,3,2025-02-08,S021,Zaragoza,0,Sin Festivo,Sin Evento
+Aceite de Oliva,0.73,Alimentación,7,79,2025-01-23,S024,Murcia,0,Sin Festivo,Sin Evento
+Pollo Fresco,7.06,Carnes,3,34,2024-12-26,S040,Valencia,0,Sin Festivo,Sin Evento
+Pollo Fresco,7.27,Carnes,4,37,2025-08-07,S048,Alicante,0,Sin Festivo,Sin Evento
+Yogur Natural,2.53,Lácteos,0,73,2024-01-25,S010,Murcia,0,Sin Festivo,Sin Evento
+Manzanas Fuji,4.41,Frutas y Verduras,5,152,2025-08-23,S037,Bilbao,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,11.23,Bebidas,0,67,2025-03-14,S008,Málaga,0,Sin Festivo,Sin Evento
+Manzanas Fuji,5.05,Frutas y Verduras,2,26,2025-03-11,S001,Murcia,0,Sin Festivo,Sin Evento
+Pollo Fresco,14.73,Carnes,2,8,2025-10-01,S050,Sevilla,0,Sin Festivo,Sin Evento
+Papel Higiénico,2.34,Higiene,4,34,2024-02-11,S025,Alicante,0,Sin Festivo,Sin Evento
+Protector Solar,11.48,Cuidado Personal,1,75,2024-10-03,S041,Barcelona,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.31,Congelados,2,131,2024-04-09,S017,Madrid,0,Sin Festivo,Sin Evento
+Manzanas Fuji,2.94,Frutas y Verduras,11,60,2024-01-13,S016,Alicante,1,Sin Festivo,Evento Deportivo Importante
+Papel Higiénico,4.15,Higiene,2,42,2025-10-27,S018,Bilbao,0,Sin Festivo,Sin Evento
+Pasta Italiana,8.56,Alimentación,2,156,2024-04-16,S044,Zaragoza,0,Sin Festivo,Sin Evento
+Turrón de Almendras,5.8,Alimentación (Navidad),11,35,2025-07-19,S036,Barcelona,1,Sin Festivo,Sin Evento
+Manzanas Fuji,4.49,Frutas y Verduras,1,83,2025-12-08,S049,Sevilla,0,Inmaculada Concepción,Sin Evento
+Helado de Vainilla,4.13,Congelados,1,22,2025-10-08,S005,Valencia,0,Sin Festivo,Sin Evento
+Pasta Italiana,1.53,Alimentación,4,131,2025-04-12,S037,Murcia,0,Sin Festivo,Sin Evento
+Pollo Fresco,12.02,Carnes,3,10,2024-07-25,S022,Barcelona,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,2.69,Bebidas,16,2,2024-06-23,S030,Zaragoza,1,Sin Festivo,Sin Evento
+Turrón de Almendras,10.42,Alimentación (Navidad),2,36,2024-03-17,S007,Málaga,1,Sin Festivo,Sin Evento
+Helado de Vainilla,3.0,Congelados,3,132,2025-11-26,S016,Málaga,0,Sin Festivo,Sin Evento
+Pan de Molde,0.96,Panadería,6,0,2025-06-26,S016,Málaga,0,Sin Festivo,Sin Evento
+Detergente Líquido,6.54,Limpieza,2,31,2025-04-22,S048,Murcia,0,Sin Festivo,Sin Evento
+Leche Entera,1.78,Lácteos,2,29,2025-01-08,S010,Alicante,0,Sin Festivo,Sin Evento
+Cerveza Lager,5.4,Bebidas,2,114,2025-03-25,S024,Alicante,0,Sin Festivo,Sin Evento
+Detergente Líquido,3.7,Limpieza,9,122,2025-10-31,S020,Bilbao,1,Sin Festivo,Sin Evento
+Cerveza Lager,1.72,Bebidas,0,125,2024-08-17,S038,Zaragoza,1,Sin Festivo,Sin Evento
+Protector Solar,2.61,Cuidado Personal,9,22,2024-05-24,S015,Bilbao,1,Sin Festivo,Sin Evento
+Manzanas Fuji,5.14,Frutas y Verduras,0,4,2025-08-16,S025,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Paraguas,10.98,Hogar,1,19,2024-10-04,S010,Zaragoza,1,Sin Festivo,Sin Evento
+Cerveza Lager,9.26,Bebidas,10,62,2025-12-28,S013,Zaragoza,0,Sin Festivo,Evento Deportivo Importante
+Protector Solar,6.16,Cuidado Personal,3,0,2025-12-12,S043,Barcelona,1,Sin Festivo,Sin Evento
+Paraguas,18.02,Hogar,3,12,2025-05-14,S039,Alicante,0,Sin Festivo,Sin Evento
+Pan de Molde,2.81,Panadería,0,45,2025-07-06,S005,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Turrón de Almendras,21.64,Alimentación (Navidad),0,35,2024-01-09,S050,Murcia,0,Sin Festivo,Sin Evento
+Turrón de Almendras,18.0,Alimentación (Navidad),21,33,2024-12-12,S035,Valencia,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.74,Congelados,3,42,2025-10-21,S042,Valencia,0,Sin Festivo,Mercado Semanal
+Cerveza Lager,6.11,Bebidas,3,158,2024-06-04,S024,Valencia,0,Sin Festivo,Sin Evento
+Yogur Natural,2.86,Lácteos,6,35,2024-08-25,S048,Barcelona,0,Sin Festivo,Sin Evento
+Paraguas,13.82,Hogar,3,20,2025-12-09,S038,Madrid,0,Sin Festivo,Sin Evento
+Helado de Vainilla,8.66,Congelados,0,81,2024-06-13,S040,Murcia,0,Sin Festivo,Sin Evento
+Pasta Italiana,7.11,Alimentación,2,161,2025-11-26,S022,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pasta Italiana,6.91,Alimentación,2,24,2025-07-15,S039,Valencia,0,Sin Festivo,Sin Evento
+Manzanas Fuji,1.99,Frutas y Verduras,2,97,2025-08-17,S032,Zaragoza,1,Sin Festivo,Sin Evento
+Turrón de Almendras,21.82,Alimentación (Navidad),1,59,2025-10-17,S024,Valencia,0,Sin Festivo,Sin Evento
+Papel Higiénico,5.86,Higiene,0,19,2025-02-06,S032,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,9.93,Bebidas,1,18,2024-01-03,S004,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Helado de Vainilla,5.89,Congelados,2,151,2024-03-21,S022,Barcelona,0,Sin Festivo,Sin Evento
+Manzanas Fuji,1.44,Frutas y Verduras,0,38,2025-08-22,S015,Barcelona,0,Sin Festivo,Festival de Música
+Pasta Italiana,4.63,Alimentación,3,22,2024-08-05,S035,Bilbao,0,Sin Festivo,Sin Evento
+Pan de Molde,2.33,Panadería,2,21,2025-11-12,S002,Zaragoza,0,Sin Festivo,Sin Evento
+Papel Higiénico,2.85,Higiene,6,39,2024-06-24,S044,Madrid,0,Sin Festivo,Sin Evento
+Turrón de Almendras,8.97,Alimentación (Navidad),5,20,2024-09-10,S033,Bilbao,0,Sin Festivo,Feria Local
+Pasta Italiana,7.05,Alimentación,4,5,2024-09-02,S037,Valencia,0,Sin Festivo,Evento Deportivo Importante
+Vino Tinto Rioja,4.44,Bebidas,1,17,2024-06-05,S024,Murcia,0,Sin Festivo,Sin Evento
+Aceite de Oliva,2.84,Alimentación,8,78,2024-10-17,S033,Alicante,0,Sin Festivo,Sin Evento
+Detergente Líquido,6.1,Limpieza,5,49,2024-07-25,S014,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pan de Molde,0.88,Panadería,5,31,2024-02-05,S020,Zaragoza,0,Sin Festivo,Sin Evento
+Helado de Vainilla,5.77,Congelados,3,51,2025-10-13,S032,Sevilla,0,Sin Festivo,Sin Evento
+Cerveza Lager,9.92,Bebidas,2,16,2025-08-26,S009,Madrid,0,Sin Festivo,Sin Evento
+Yogur Natural,0.61,Lácteos,1,0,2024-05-15,S020,Barcelona,0,Sin Festivo,Sin Evento
+Cerveza Lager,10.83,Bebidas,1,111,2025-02-27,S017,Murcia,0,Sin Festivo,Sin Evento
+Pasta Italiana,8.93,Alimentación,2,180,2024-03-20,S037,Palma de Mallorca,0,Sin Festivo,Mercado Semanal
+Pasta Italiana,8.4,Alimentación,1,140,2024-04-19,S041,Alicante,0,Sin Festivo,Sin Evento
+Turrón de Almendras,14.52,Alimentación (Navidad),9,2,2025-03-07,S028,Bilbao,1,Sin Festivo,Sin Evento
+Paraguas,8.24,Hogar,6,27,2025-04-21,S050,Barcelona,0,Sin Festivo,Sin Evento
+Yogur Natural,0.96,Lácteos,4,89,2024-10-23,S034,Alicante,0,Sin Festivo,Sin Evento
+Papel Higiénico,2.82,Higiene,3,22,2024-10-03,S045,Bilbao,0,Sin Festivo,Sin Evento
+Manzanas Fuji,5.44,Frutas y Verduras,2,53,2025-06-06,S002,Murcia,0,Sin Festivo,Sin Evento
+Turrón de Almendras,7.46,Alimentación (Navidad),3,52,2024-05-12,S031,Málaga,0,Sin Festivo,Sin Evento
+Manzanas Fuji,1.93,Frutas y Verduras,3,135,2024-11-25,S029,Bilbao,0,Sin Festivo,Sin Evento
+Helado de Vainilla,7.05,Congelados,3,155,2025-10-22,S047,Valencia,0,Sin Festivo,Sin Evento
+Yogur Natural,2.4,Lácteos,1,52,2025-12-22,S037,Madrid,0,Sin Festivo,Sin Evento
+Pollo Fresco,9.94,Carnes,3,86,2025-04-02,S044,Murcia,0,Sin Festivo,Sin Evento
+Protector Solar,8.51,Cuidado Personal,3,10,2025-09-02,S046,Zaragoza,0,Sin Festivo,Sin Evento
+Papel Higiénico,4.19,Higiene,4,62,2024-12-24,S025,Málaga,0,Sin Festivo,Sin Evento
+Yogur Natural,1.16,Lácteos,2,21,2025-01-03,S049,Sevilla,1,Sin Festivo,Sin Evento
+Pasta Italiana,3.06,Alimentación,4,55,2025-07-22,S028,Murcia,0,Sin Festivo,Sin Evento
+Paraguas,19.19,Hogar,2,19,2025-11-18,S048,Bilbao,0,Sin Festivo,Sin Evento
+Protector Solar,11.3,Cuidado Personal,2,51,2025-05-28,S047,Bilbao,0,Sin Festivo,Sin Evento
+Turrón de Almendras,11.88,Alimentación (Navidad),7,0,2025-07-05,S037,Zaragoza,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.35,Higiene,0,44,2024-01-11,S008,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Paraguas,10.1,Hogar,2,43,2024-04-30,S040,Málaga,0,Sin Festivo,Sin Evento
+Aceite de Oliva,5.72,Alimentación,3,94,2025-12-21,S007,Madrid,1,Sin Festivo,Sin Evento
+Cerveza Lager,8.12,Bebidas,1,3,2025-03-28,S041,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Leche Entera,2.64,Lácteos,6,65,2025-09-05,S050,Valencia,1,Sin Festivo,Sin Evento
+Paraguas,13.85,Hogar,1,32,2025-10-28,S029,Murcia,0,Sin Festivo,Sin Evento
+Paraguas,11.18,Hogar,4,2,2025-06-09,S038,Zaragoza,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,11.19,Bebidas,2,15,2024-10-29,S026,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Protector Solar,8.33,Cuidado Personal,0,5,2024-11-28,S019,Málaga,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,2.5,Bebidas,7,11,2025-09-01,S001,Valencia,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.54,Congelados,5,121,2024-07-15,S034,Zaragoza,0,Sin Festivo,Sin Evento
+Leche Entera,3.28,Lácteos,2,1,2024-04-06,S003,Bilbao,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,2.98,Bebidas,20,6,2024-06-01,S020,Bilbao,1,Sin Festivo,Mercado Semanal
+Manzanas Fuji,1.76,Frutas y Verduras,2,162,2025-04-16,S036,Zaragoza,0,Sin Festivo,Sin Evento
+Manzanas Fuji,1.32,Frutas y Verduras,8,0,2025-10-05,S036,Barcelona,0,Sin Festivo,Sin Evento
+Yogur Natural,3.45,Lácteos,0,13,2024-05-25,S043,Valencia,0,Sin Festivo,Sin Evento
+Turrón de Almendras,5.4,Alimentación (Navidad),6,11,2024-11-02,S017,Valencia,1,Sin Festivo,Sin Evento
+Yogur Natural,2.68,Lácteos,1,3,2025-12-24,S014,Bilbao,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,5.65,Bebidas,26,0,2024-12-28,S009,Málaga,1,Sin Festivo,Sin Evento
+Helado de Vainilla,4.13,Congelados,5,109,2024-07-24,S012,Alicante,0,Sin Festivo,Sin Evento
+Protector Solar,6.78,Cuidado Personal,0,65,2024-01-17,S027,Alicante,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.61,Higiene,15,9,2025-02-16,S025,Barcelona,1,Sin Festivo,Sin Evento
+Leche Entera,1.78,Lácteos,4,43,2024-10-24,S046,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Detergente Líquido,4.02,Limpieza,0,145,2025-08-20,S037,Murcia,0,Sin Festivo,Sin Evento
+Helado de Vainilla,8.47,Congelados,3,0,2025-04-13,S033,Madrid,0,Sin Festivo,Sin Evento
+Manzanas Fuji,0.75,Frutas y Verduras,13,79,2024-05-17,S038,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Paraguas,6.94,Hogar,24,26,2025-11-09,S031,Murcia,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,10.46,Bebidas,2,32,2025-11-02,S040,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Pasta Italiana,2.68,Alimentación,5,66,2024-05-26,S010,Murcia,0,Sin Festivo,Sin Evento
+Leche Entera,2.1,Lácteos,4,31,2025-10-14,S008,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pollo Fresco,14.64,Carnes,0,39,2024-01-10,S038,Bilbao,0,Sin Festivo,Sin Evento
+Cerveza Lager,2.37,Bebidas,6,180,2024-12-13,S003,Bilbao,1,Sin Festivo,Sin Evento
+Leche Entera,0.51,Lácteos,3,60,2024-09-05,S007,Alicante,0,Sin Festivo,Sin Evento
+Cerveza Lager,8.23,Bebidas,0,47,2024-11-28,S011,Bilbao,0,Sin Festivo,Sin Evento
+Papel Higiénico,2.48,Higiene,9,15,2024-08-31,S037,Valencia,0,Sin Festivo,Sin Evento
+Pasta Italiana,8.24,Alimentación,5,105,2024-12-08,S032,Bilbao,0,Inmaculada Concepción,Sin Evento
+Yogur Natural,3.0,Lácteos,0,93,2025-10-16,S021,Valencia,0,Sin Festivo,Sin Evento
+Papel Higiénico,2.19,Higiene,8,22,2024-03-02,S023,Murcia,1,Sin Festivo,Sin Evento
+Papel Higiénico,1.94,Higiene,4,77,2025-03-27,S039,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pan de Molde,0.86,Panadería,7,14,2024-05-16,S019,Zaragoza,0,Sin Festivo,Sin Evento
+Turrón de Almendras,16.86,Alimentación (Navidad),2,37,2024-01-13,S040,Zaragoza,1,Sin Festivo,Sin Evento
+Paraguas,7.09,Hogar,19,0,2025-01-11,S048,Zaragoza,1,Sin Festivo,Sin Evento
+Paraguas,17.55,Hogar,2,0,2024-03-17,S031,Madrid,0,Sin Festivo,Sin Evento
+Pan de Molde,2.44,Panadería,2,1,2025-10-02,S050,Sevilla,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,10.59,Bebidas,2,68,2025-06-29,S034,Madrid,0,Sin Festivo,Sin Evento
+Turrón de Almendras,14.27,Alimentación (Navidad),0,29,2024-09-27,S028,Bilbao,0,Sin Festivo,Sin Evento
+Detergente Líquido,5.14,Limpieza,1,149,2025-09-02,S034,Madrid,0,Sin Festivo,Sin Evento
+Pollo Fresco,6.4,Carnes,12,3,2025-06-08,S028,Málaga,0,Sin Festivo,Sin Evento
+Leche Entera,1.4,Lácteos,8,30,2024-05-06,S013,Barcelona,0,Sin Festivo,Sin Evento
+Paraguas,14.37,Hogar,3,20,2025-05-16,S025,Valencia,0,Sin Festivo,Sin Evento
+Paraguas,10.3,Hogar,7,36,2024-05-07,S011,Bilbao,0,Sin Festivo,Sin Evento
+Turrón de Almendras,10.74,Alimentación (Navidad),12,3,2024-05-05,S042,Málaga,1,Sin Festivo,Sin Evento
+Yogur Natural,0.91,Lácteos,3,47,2025-04-18,S006,Bilbao,1,Viernes Santo,Sin Evento
+Pasta Italiana,0.72,Alimentación,6,92,2024-03-12,S010,Zaragoza,0,Sin Festivo,Sin Evento
+Turrón de Almendras,23.16,Alimentación (Navidad),0,33,2024-06-26,S008,Barcelona,0,Sin Festivo,Sin Evento
+Turrón de Almendras,14.03,Alimentación (Navidad),1,4,2024-07-05,S046,Sevilla,0,Sin Festivo,Sin Evento
+Pasta Italiana,0.84,Alimentación,13,11,2024-07-17,S031,Sevilla,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,1.54,Bebidas,13,17,2024-04-14,S040,Zaragoza,0,Sin Festivo,Sin Evento
+Papel Higiénico,5.06,Higiene,5,58,2025-03-04,S033,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Detergente Líquido,4.21,Limpieza,4,95,2025-02-14,S035,Murcia,1,Sin Festivo,Sin Evento
+Turrón de Almendras,7.56,Alimentación (Navidad),23,5,2024-12-26,S026,Zaragoza,0,Sin Festivo,Sin Evento
+Pan de Molde,0.94,Panadería,10,12,2024-02-23,S031,Sevilla,1,Sin Festivo,Sin Evento
+Helado de Vainilla,3.78,Congelados,1,140,2024-08-15,S001,Palma de Mallorca,0,Asunción de la Virgen,Sin Evento
+Detergente Líquido,4.14,Limpieza,4,178,2024-04-24,S022,Málaga,0,Sin Festivo,Sin Evento
+Manzanas Fuji,5.91,Frutas y Verduras,4,72,2025-09-06,S030,Alicante,1,Sin Festivo,Sin Evento
+Yogur Natural,2.15,Lácteos,8,44,2024-10-26,S029,Madrid,1,Sin Festivo,Sin Evento
+Papel Higiénico,3.83,Higiene,1,81,2024-09-05,S043,Alicante,0,Sin Festivo,Sin Evento
+Helado de Vainilla,3.55,Congelados,4,89,2024-02-02,S044,Barcelona,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,2.84,Bebidas,6,49,2025-08-02,S015,Bilbao,1,Sin Festivo,Feria Local
+Papel Higiénico,5.73,Higiene,0,62,2024-01-05,S047,Murcia,0,Sin Festivo,Sin Evento
+Papel Higiénico,4.7,Higiene,4,21,2025-12-03,S005,Sevilla,0,Sin Festivo,Sin Evento
+Yogur Natural,1.22,Lácteos,5,41,2024-01-16,S013,Murcia,0,Sin Festivo,Sin Evento
+Detergente Líquido,1.44,Limpieza,6,35,2024-07-16,S042,Barcelona,0,Sin Festivo,Sin Evento
+Leche Entera,2.58,Lácteos,1,57,2025-11-25,S047,Murcia,0,Sin Festivo,Sin Evento
+Aceite de Oliva,8.47,Alimentación,2,63,2024-10-27,S036,Murcia,1,Sin Festivo,Sin Evento
+Protector Solar,10.35,Cuidado Personal,2,17,2025-05-21,S033,Madrid,0,Sin Festivo,Sin Evento
+Leche Entera,0.72,Lácteos,4,9,2025-08-06,S011,Alicante,0,Sin Festivo,Sin Evento
+Yogur Natural,3.39,Lácteos,1,65,2024-01-18,S036,Málaga,0,Sin Festivo,Sin Evento
+Helado de Vainilla,1.6,Congelados,15,20,2025-04-16,S026,Zaragoza,0,Sin Festivo,Concierto Grande
+Pan de Molde,0.93,Panadería,7,40,2025-04-20,S049,Madrid,0,Sin Festivo,Sin Evento
+Helado de Vainilla,5.43,Congelados,4,78,2024-05-18,S035,Murcia,0,Sin Festivo,Sin Evento
+Pollo Fresco,3.39,Carnes,7,0,2025-02-17,S043,Sevilla,0,Sin Festivo,Sin Evento
+Papel Higiénico,2.35,Higiene,2,17,2025-10-18,S030,Sevilla,0,Sin Festivo,Sin Evento
+Pan de Molde,2.37,Panadería,1,9,2025-09-18,S013,Barcelona,0,Sin Festivo,Sin Evento
+Pollo Fresco,8.93,Carnes,0,0,2024-12-03,S008,Palma de Mallorca,0,Sin Festivo,Concierto Grande
+Helado de Vainilla,2.21,Congelados,4,27,2025-05-21,S035,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Aceite de Oliva,9.29,Alimentación,0,63,2025-05-12,S008,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pan de Molde,1.6,Panadería,6,35,2024-09-08,S007,Bilbao,0,Sin Festivo,Sin Evento
+Pasta Italiana,3.25,Alimentación,0,0,2025-10-03,S037,Alicante,1,Sin Festivo,Sin Evento
+Aceite de Oliva,2.97,Alimentación,13,94,2024-01-06,S003,Zaragoza,1,Reyes Magos,Sin Evento
+Leche Entera,2.15,Lácteos,2,0,2025-06-08,S031,Sevilla,1,Sin Festivo,Concierto Grande
+Protector Solar,11.48,Cuidado Personal,2,51,2024-12-24,S029,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Helado de Vainilla,8.68,Congelados,2,44,2024-03-04,S017,Barcelona,0,Sin Festivo,Sin Evento
+Detergente Líquido,3.81,Limpieza,6,28,2024-05-05,S047,Barcelona,0,Sin Festivo,Sin Evento
+Turrón de Almendras,7.62,Alimentación (Navidad),3,37,2024-11-28,S032,Alicante,0,Sin Festivo,Sin Evento
+Aceite de Oliva,8.49,Alimentación,2,96,2025-07-10,S026,Alicante,0,Sin Festivo,Sin Evento
+Leche Entera,0.47,Lácteos,20,34,2025-12-13,S030,Alicante,1,Sin Festivo,Sin Evento
+Yogur Natural,2.28,Lácteos,2,26,2025-12-12,S034,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Paraguas,8.93,Hogar,4,40,2025-01-22,S026,Barcelona,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.27,Congelados,3,122,2024-08-25,S013,Alicante,1,Sin Festivo,Sin Evento
+Yogur Natural,3.39,Lácteos,1,33,2025-08-11,S034,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pan de Molde,2.99,Panadería,0,46,2025-01-22,S015,Murcia,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,7.23,Bebidas,0,62,2025-06-08,S023,Murcia,0,Sin Festivo,Sin Evento
+Detergente Líquido,7.55,Limpieza,1,103,2025-08-27,S031,Alicante,0,Sin Festivo,Sin Evento
+Cerveza Lager,6.13,Bebidas,7,20,2024-10-19,S048,Valencia,0,Sin Festivo,Sin Evento
+Papel Higiénico,4.07,Higiene,2,54,2024-11-28,S004,Zaragoza,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.08,Higiene,6,17,2024-02-07,S043,Bilbao,0,Sin Festivo,Sin Evento
+Papel Higiénico,5.81,Higiene,2,81,2025-03-13,S014,Murcia,0,Sin Festivo,Sin Evento
+Leche Entera,1.77,Lácteos,2,10,2025-01-04,S016,Valencia,0,Sin Festivo,Sin Evento
+Pollo Fresco,13.33,Carnes,3,0,2024-10-29,S017,Sevilla,0,Sin Festivo,Sin Evento
+Protector Solar,6.19,Cuidado Personal,0,76,2025-04-03,S044,Murcia,0,Sin Festivo,Sin Evento
+Aceite de Oliva,9.31,Alimentación,2,100,2025-02-20,S007,Málaga,0,Sin Festivo,Sin Evento
+Helado de Vainilla,5.4,Congelados,4,82,2024-02-29,S049,Sevilla,0,Sin Festivo,Sin Evento
+Paraguas,7.67,Hogar,8,43,2024-02-04,S006,Bilbao,0,Sin Festivo,Sin Evento
+Protector Solar,13.17,Cuidado Personal,2,30,2024-11-04,S027,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Detergente Líquido,1.66,Limpieza,4,91,2024-09-11,S028,Zaragoza,0,Sin Festivo,Sin Evento
+Pollo Fresco,11.55,Carnes,0,51,2024-03-14,S001,Alicante,0,Sin Festivo,Sin Evento
+Turrón de Almendras,7.68,Alimentación (Navidad),4,13,2024-07-02,S028,Zaragoza,0,Sin Festivo,Sin Evento
+Pan de Molde,2.13,Panadería,3,14,2025-08-20,S011,Valencia,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,10.17,Bebidas,7,19,2025-10-12,S004,Murcia,0,Fiesta Nacional de España,Sin Evento
+Pasta Italiana,6.57,Alimentación,3,108,2024-01-22,S004,Madrid,0,Sin Festivo,Sin Evento
+Pan de Molde,0.95,Panadería,7,5,2024-05-20,S026,Valencia,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,0.9,Bebidas,4,44,2025-09-10,S029,Málaga,0,Sin Festivo,Sin Evento
+Pollo Fresco,13.91,Carnes,0,44,2025-12-12,S002,Alicante,1,Sin Festivo,Sin Evento
+Helado de Vainilla,6.94,Congelados,2,107,2024-02-19,S018,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Papel Higiénico,4.75,Higiene,4,28,2025-07-20,S049,Málaga,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,9.4,Bebidas,1,92,2024-03-12,S027,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pasta Italiana,6.16,Alimentación,2,162,2024-11-01,S047,Bilbao,1,Todos los Santos,Sin Evento
+Leche Entera,1.92,Lácteos,3,16,2024-07-30,S004,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pollo Fresco,6.25,Carnes,0,42,2025-05-27,S014,Barcelona,0,Sin Festivo,Sin Evento
+Pan de Molde,2.99,Panadería,3,2,2024-09-02,S012,Barcelona,0,Sin Festivo,Mercado Semanal
+Detergente Líquido,6.98,Limpieza,2,21,2024-04-16,S011,Bilbao,0,Sin Festivo,Sin Evento
+Cerveza Lager,10.65,Bebidas,3,161,2025-04-07,S005,Murcia,0,Sin Festivo,Sin Evento
+Turrón de Almendras,14.5,Alimentación (Navidad),7,7,2024-09-22,S014,Murcia,1,Sin Festivo,Sin Evento
+Aceite de Oliva,3.36,Alimentación,4,76,2025-03-13,S042,Barcelona,0,Sin Festivo,Sin Evento
+Protector Solar,5.48,Cuidado Personal,8,21,2024-09-20,S017,Madrid,0,Sin Festivo,Sin Evento
+Papel Higiénico,3.31,Higiene,3,17,2025-02-09,S035,Zaragoza,1,Sin Festivo,Sin Evento
+Pasta Italiana,2.5,Alimentación,10,25,2025-11-02,S027,Málaga,1,Sin Festivo,Evento Deportivo Importante
+Pasta Italiana,2.47,Alimentación,0,95,2024-05-22,S049,Murcia,0,Sin Festivo,Evento Deportivo Importante
+Aceite de Oliva,4.75,Alimentación,16,46,2025-01-25,S050,Madrid,1,Sin Festivo,Sin Evento
+Aceite de Oliva,6.95,Alimentación,2,80,2024-10-31,S007,Zaragoza,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,0.96,Bebidas,4,22,2024-02-06,S024,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Turrón de Almendras,7.8,Alimentación (Navidad),16,36,2024-04-06,S043,Málaga,1,Sin Festivo,Sin Evento
+Yogur Natural,1.12,Lácteos,16,3,2024-07-21,S030,Madrid,1,Sin Festivo,Sin Evento
+Detergente Líquido,4.11,Limpieza,6,87,2025-04-30,S002,Murcia,0,Sin Festivo,Sin Evento
+Yogur Natural,0.8,Lácteos,9,123,2025-10-18,S035,Bilbao,1,Sin Festivo,Sin Evento
+Pasta Italiana,8.24,Alimentación,2,157,2025-05-05,S021,Alicante,0,Sin Festivo,Sin Evento
+Aceite de Oliva,9.06,Alimentación,1,48,2025-10-23,S049,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Aceite de Oliva,4.46,Alimentación,3,74,2024-09-12,S035,Sevilla,0,Sin Festivo,Sin Evento
+Detergente Líquido,3.61,Limpieza,5,114,2025-08-08,S042,Alicante,1,Sin Festivo,Sin Evento
+Pan de Molde,1.69,Panadería,3,0,2024-03-01,S004,Palma de Mallorca,1,Día de las Islas Baleares,Sin Evento
+Pasta Italiana,3.79,Alimentación,6,12,2024-02-16,S007,Barcelona,0,Sin Festivo,Sin Evento
+Yogur Natural,1.85,Lácteos,3,105,2024-11-26,S038,Sevilla,0,Sin Festivo,Sin Evento
+Cerveza Lager,10.17,Bebidas,2,149,2024-05-29,S012,Barcelona,0,Sin Festivo,Sin Evento
+Yogur Natural,2.83,Lácteos,3,52,2024-11-10,S016,Zaragoza,0,Sin Festivo,Sin Evento
+Aceite de Oliva,5.58,Alimentación,4,64,2025-07-28,S004,Bilbao,0,Sin Festivo,Sin Evento
+Cerveza Lager,2.23,Bebidas,8,174,2025-04-10,S023,Málaga,0,Sin Festivo,Sin Evento
+Manzanas Fuji,1.18,Frutas y Verduras,6,21,2025-03-09,S034,Zaragoza,0,Sin Festivo,Sin Evento
+Paraguas,12.16,Hogar,22,6,2024-07-13,S033,Barcelona,1,Sin Festivo,Sin Evento
+Turrón de Almendras,3.18,Alimentación (Navidad),5,51,2024-07-11,S029,Sevilla,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.88,Higiene,0,68,2024-02-22,S017,Valencia,0,Sin Festivo,Sin Evento
+Pasta Italiana,9.41,Alimentación,1,138,2025-12-20,S040,Alicante,0,Sin Festivo,Sin Evento
+Pollo Fresco,9.3,Carnes,0,27,2025-11-14,S044,Sevilla,1,Sin Festivo,Sin Evento
+Manzanas Fuji,4.42,Frutas y Verduras,2,75,2024-07-02,S004,Zaragoza,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.41,Congelados,2,73,2024-07-20,S031,Barcelona,0,Sin Festivo,Sin Evento
+Aceite de Oliva,0.61,Alimentación,12,22,2025-04-18,S035,Zaragoza,1,Viernes Santo,Sin Evento
+Leche Entera,0.66,Lácteos,1,27,2024-07-08,S050,Valencia,0,Sin Festivo,Sin Evento
+Protector Solar,9.38,Cuidado Personal,0,17,2024-01-16,S032,Murcia,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,8.82,Bebidas,1,42,2025-10-19,S040,Madrid,1,Sin Festivo,Sin Evento
+Aceite de Oliva,4.13,Alimentación,6,34,2024-07-28,S032,Zaragoza,1,Sin Festivo,Sin Evento
+Aceite de Oliva,1.43,Alimentación,0,0,2025-09-18,S042,Sevilla,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,4.59,Bebidas,1,75,2025-11-10,S011,Málaga,0,Sin Festivo,Sin Evento
+Protector Solar,7.18,Cuidado Personal,4,45,2025-08-29,S009,Alicante,1,Sin Festivo,Sin Evento
+Pan de Molde,1.93,Panadería,3,17,2025-09-19,S026,Murcia,1,Sin Festivo,Sin Evento
+Leche Entera,1.47,Lácteos,4,0,2025-11-01,S008,Murcia,1,Todos los Santos,Sin Evento
+Cerveza Lager,5.33,Bebidas,3,25,2025-12-12,S046,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,9.02,Bebidas,0,19,2024-08-09,S033,Bilbao,0,Sin Festivo,Sin Evento
+Aceite de Oliva,2.84,Alimentación,0,97,2024-09-10,S005,Barcelona,0,Sin Festivo,Sin Evento
+Leche Entera,1.73,Lácteos,0,76,2024-09-27,S014,Valencia,1,Sin Festivo,Sin Evento
+Papel Higiénico,5.38,Higiene,0,40,2024-07-08,S003,Bilbao,0,Sin Festivo,Sin Evento
+Pasta Italiana,3.8,Alimentación,5,174,2024-01-25,S026,Sevilla,0,Sin Festivo,Sin Evento
+Helado de Vainilla,1.96,Congelados,3,46,2024-08-29,S044,Madrid,0,Sin Festivo,Sin Evento
+Helado de Vainilla,8.65,Congelados,1,11,2025-05-21,S022,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pasta Italiana,0.97,Alimentación,8,74,2025-01-14,S019,Sevilla,0,Sin Festivo,Sin Evento
+Detergente Líquido,3.91,Limpieza,1,133,2025-07-10,S014,Alicante,0,Sin Festivo,Sin Evento
+Cerveza Lager,3.25,Bebidas,7,18,2024-12-16,S040,Alicante,0,Sin Festivo,Sin Evento
+Pasta Italiana,6.96,Alimentación,4,46,2025-09-25,S021,Madrid,0,Sin Festivo,Sin Evento
+Pan de Molde,0.53,Panadería,7,6,2024-06-28,S016,Zaragoza,1,Sin Festivo,Sin Evento
+Turrón de Almendras,6.46,Alimentación (Navidad),9,37,2025-03-12,S038,Alicante,0,Sin Festivo,Sin Evento
+Pasta Italiana,7.14,Alimentación,1,75,2025-04-03,S015,Barcelona,0,Sin Festivo,Sin Evento
+Cerveza Lager,2.45,Bebidas,18,45,2024-06-16,S034,Valencia,0,Sin Festivo,Concierto Grande
+Paraguas,19.91,Hogar,1,9,2024-08-07,S018,Alicante,0,Sin Festivo,Sin Evento
+Yogur Natural,2.2,Lácteos,1,18,2025-07-16,S023,Valencia,0,Sin Festivo,Sin Evento
+Manzanas Fuji,2.32,Frutas y Verduras,4,143,2024-08-06,S001,Zaragoza,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,5.39,Bebidas,16,42,2024-12-14,S025,Barcelona,1,Sin Festivo,Sin Evento
+Turrón de Almendras,23.05,Alimentación (Navidad),2,24,2025-05-29,S032,Bilbao,0,Sin Festivo,Sin Evento
+Pasta Italiana,8.73,Alimentación,4,83,2025-06-14,S005,Málaga,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,8.34,Bebidas,6,79,2025-11-16,S014,Zaragoza,1,Sin Festivo,Sin Evento
+Leche Entera,1.17,Lácteos,2,73,2024-08-11,S036,Murcia,0,Sin Festivo,Sin Evento
+Turrón de Almendras,24.57,Alimentación (Navidad),0,6,2024-09-27,S037,Valencia,0,Sin Festivo,Sin Evento
+Papel Higiénico,2.9,Higiene,6,36,2025-02-08,S042,Madrid,1,Sin Festivo,Sin Evento
+Yogur Natural,2.19,Lácteos,6,37,2025-11-28,S003,Zaragoza,0,Sin Festivo,Sin Evento
+Papel Higiénico,1.92,Higiene,6,74,2024-08-18,S013,Bilbao,0,Sin Festivo,Sin Evento
+Helado de Vainilla,4.7,Congelados,5,93,2024-03-03,S008,Zaragoza,1,Sin Festivo,Sin Evento
+Yogur Natural,2.34,Lácteos,4,100,2025-06-08,S014,Alicante,1,Sin Festivo,Sin Evento
+Leche Entera,2.17,Lácteos,0,16,2024-11-28,S002,Barcelona,0,Sin Festivo,Sin Evento
+Leche Entera,1.46,Lácteos,4,32,2025-02-17,S007,Bilbao,0,Sin Festivo,Sin Evento
+Yogur Natural,1.87,Lácteos,5,37,2025-05-12,S050,Barcelona,0,Sin Festivo,Sin Evento
+Pan de Molde,0.71,Panadería,4,17,2024-09-30,S015,Alicante,0,Sin Festivo,Sin Evento
+Protector Solar,8.21,Cuidado Personal,0,27,2025-08-18,S004,Alicante,0,Sin Festivo,Sin Evento
+Helado de Vainilla,8.42,Congelados,3,87,2025-04-20,S010,Valencia,1,Sin Festivo,Sin Evento
+Cerveza Lager,6.96,Bebidas,4,170,2025-07-30,S031,Madrid,0,Sin Festivo,Sin Evento
+Pollo Fresco,4.22,Carnes,7,68,2025-06-27,S035,Bilbao,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,1.77,Bebidas,11,0,2025-11-21,S002,Málaga,1,Sin Festivo,Sin Evento
+Detergente Líquido,6.89,Limpieza,2,172,2025-12-25,S015,Barcelona,0,Navidad,Sin Evento
+Papel Higiénico,1.42,Higiene,2,75,2025-12-04,S009,Zaragoza,0,Sin Festivo,Sin Evento
+Pasta Italiana,3.77,Alimentación,17,75,2025-11-22,S040,Murcia,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,7.23,Bebidas,1,60,2024-08-26,S042,Sevilla,0,Sin Festivo,Sin Evento
+Cerveza Lager,4.16,Bebidas,8,32,2025-01-03,S017,Alicante,0,Sin Festivo,Sin Evento
+Yogur Natural,3.15,Lácteos,1,6,2024-05-20,S005,Valencia,0,Sin Festivo,Sin Evento
+Pan de Molde,1.91,Panadería,2,15,2025-11-24,S007,Madrid,0,Sin Festivo,Sin Evento
+Aceite de Oliva,4.46,Alimentación,7,51,2024-04-30,S018,Málaga,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.68,Congelados,2,129,2024-11-22,S016,Málaga,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,6.76,Bebidas,2,12,2024-08-26,S044,Sevilla,0,Sin Festivo,Sin Evento
+Protector Solar,4.11,Cuidado Personal,6,26,2024-01-23,S039,Bilbao,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,1.25,Bebidas,9,98,2025-11-20,S037,Barcelona,0,Sin Festivo,Sin Evento
+Paraguas,13.77,Hogar,4,10,2024-11-23,S033,Murcia,1,Sin Festivo,Sin Evento
+Helado de Vainilla,1.09,Congelados,5,20,2025-10-12,S050,Málaga,1,Fiesta Nacional de España,Sin Evento
+Helado de Vainilla,2.77,Congelados,5,154,2025-02-27,S028,Málaga,0,Sin Festivo,Sin Evento
+Yogur Natural,1.87,Lácteos,3,94,2024-09-29,S030,Málaga,1,Sin Festivo,Sin Evento
+Paraguas,4.27,Hogar,13,31,2024-11-29,S044,Málaga,1,Sin Festivo,Sin Evento
+Manzanas Fuji,5.41,Frutas y Verduras,3,25,2024-10-06,S033,Sevilla,0,Sin Festivo,Sin Evento
+Pasta Italiana,8.79,Alimentación,2,190,2024-09-06,S013,Sevilla,0,Sin Festivo,Sin Evento
+Leche Entera,2.4,Lácteos,3,61,2025-09-26,S021,Zaragoza,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,3.55,Bebidas,5,49,2025-08-20,S039,Málaga,0,Sin Festivo,Sin Evento
+Detergente Líquido,2.08,Limpieza,3,55,2024-03-12,S030,Valencia,0,Sin Festivo,Sin Evento
+Detergente Líquido,3.1,Limpieza,4,2,2025-05-30,S013,Valencia,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,7.13,Bebidas,2,56,2024-11-18,S007,Málaga,0,Sin Festivo,Sin Evento
+Detergente Líquido,2.53,Limpieza,4,60,2025-06-29,S019,Bilbao,1,Sin Festivo,Sin Evento
+Paraguas,7.12,Hogar,0,39,2025-08-21,S011,Alicante,0,Sin Festivo,Sin Evento
+Pollo Fresco,5.27,Carnes,8,37,2025-04-09,S018,Málaga,0,Sin Festivo,Sin Evento
+Aceite de Oliva,4.63,Alimentación,3,26,2024-03-25,S016,Zaragoza,0,Sin Festivo,Sin Evento
+Pollo Fresco,6.18,Carnes,1,57,2024-05-21,S005,Murcia,0,Sin Festivo,Sin Evento
+Paraguas,5.71,Hogar,6,37,2025-03-19,S027,Murcia,0,Sin Festivo,Sin Evento
+Aceite de Oliva,1.62,Alimentación,3,32,2024-05-20,S031,Barcelona,0,Sin Festivo,Sin Evento
+Papel Higiénico,3.57,Higiene,1,75,2024-01-21,S023,Bilbao,1,Sin Festivo,Sin Evento
+Manzanas Fuji,5.06,Frutas y Verduras,5,24,2024-06-12,S048,Bilbao,0,Sin Festivo,Sin Evento
+Manzanas Fuji,0.83,Frutas y Verduras,0,149,2025-04-16,S046,Zaragoza,0,Sin Festivo,Sin Evento
+Protector Solar,14.58,Cuidado Personal,1,44,2025-10-29,S046,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Pasta Italiana,7.3,Alimentación,3,20,2025-02-26,S032,Málaga,0,Sin Festivo,Sin Evento
+Turrón de Almendras,9.64,Alimentación (Navidad),6,53,2025-02-14,S017,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Manzanas Fuji,4.38,Frutas y Verduras,4,153,2024-04-20,S005,Bilbao,0,Sin Festivo,Sin Evento
+Yogur Natural,3.49,Lácteos,1,60,2024-10-24,S029,Sevilla,0,Sin Festivo,Sin Evento
+Cerveza Lager,8.51,Bebidas,6,140,2025-08-25,S029,Sevilla,0,Sin Festivo,Sin Evento
+Cerveza Lager,10.72,Bebidas,0,151,2025-01-11,S020,Barcelona,1,Sin Festivo,Sin Evento
+Helado de Vainilla,3.33,Congelados,3,142,2025-05-22,S005,Madrid,0,Sin Festivo,Sin Evento
+Helado de Vainilla,2.78,Congelados,7,34,2025-08-25,S015,Barcelona,0,Sin Festivo,Sin Evento
+Leche Entera,1.63,Lácteos,7,12,2025-12-12,S019,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Protector Solar,5.42,Cuidado Personal,7,23,2025-01-28,S049,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Turrón de Almendras,7.06,Alimentación (Navidad),5,41,2025-02-24,S026,Alicante,0,Sin Festivo,Sin Evento
+Pan de Molde,1.14,Panadería,3,41,2024-11-08,S046,Málaga,1,Sin Festivo,Sin Evento
+Leche Entera,1.43,Lácteos,11,40,2024-06-01,S024,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Cerveza Lager,5.94,Bebidas,1,45,2024-02-12,S010,Madrid,0,Sin Festivo,Sin Evento
+Pasta Italiana,8.28,Alimentación,2,159,2024-09-12,S046,Valencia,0,Sin Festivo,Sin Evento
+Detergente Líquido,3.26,Limpieza,0,31,2025-03-18,S044,Madrid,0,Sin Festivo,Sin Evento
+Pan de Molde,2.29,Panadería,2,6,2024-05-03,S011,Alicante,0,Sin Festivo,Sin Evento
+Protector Solar,13.05,Cuidado Personal,0,13,2025-11-04,S050,Zaragoza,0,Sin Festivo,Festival de Música
+Pan de Molde,2.57,Panadería,0,18,2025-01-29,S044,Zaragoza,0,Sin Festivo,Sin Evento
+Cerveza Lager,3.1,Bebidas,0,92,2025-06-14,S039,Barcelona,1,Sin Festivo,Sin Evento
+Detergente Líquido,5.73,Limpieza,3,58,2025-12-05,S020,Murcia,0,Sin Festivo,Sin Evento
+Yogur Natural,1.99,Lácteos,6,120,2024-10-20,S049,Sevilla,1,Sin Festivo,Sin Evento
+Pan de Molde,2.53,Panadería,1,10,2024-10-13,S009,Palma de Mallorca,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,2.03,Bebidas,6,30,2024-06-16,S002,Madrid,0,Sin Festivo,Sin Evento
+Leche Entera,3.12,Lácteos,3,62,2024-07-11,S008,Alicante,0,Sin Festivo,Sin Evento
+Pan de Molde,1.68,Panadería,3,32,2025-04-24,S024,Bilbao,0,Sin Festivo,Sin Evento
+Pollo Fresco,3.98,Carnes,14,48,2024-01-05,S020,Málaga,1,Sin Festivo,Sin Evento
+Protector Solar,3.71,Cuidado Personal,4,35,2024-10-04,S045,Málaga,0,Sin Festivo,Sin Evento
+Pasta Italiana,6.64,Alimentación,2,24,2024-07-26,S040,Madrid,0,Sin Festivo,Sin Evento
+Pan de Molde,2.35,Panadería,1,0,2025-03-26,S016,Madrid,0,Sin Festivo,Sin Evento
+Pan de Molde,1.02,Panadería,8,38,2024-01-02,S019,Zaragoza,0,Sin Festivo,Evento Deportivo Importante
+Protector Solar,5.31,Cuidado Personal,16,8,2025-04-12,S017,Málaga,0,Sin Festivo,Sin Evento
+Aceite de Oliva,2.95,Alimentación,3,14,2025-01-03,S009,Madrid,1,Sin Festivo,Sin Evento
+Pollo Fresco,2.9,Carnes,0,15,2025-11-19,S031,Málaga,0,Sin Festivo,Sin Evento
+Pasta Italiana,9.22,Alimentación,0,32,2025-06-26,S028,Murcia,0,Sin Festivo,Sin Evento
+Detergente Líquido,2.66,Limpieza,3,1,2024-01-24,S020,Madrid,0,Sin Festivo,Sin Evento
+Pasta Italiana,7.25,Alimentación,2,37,2024-12-07,S016,Barcelona,1,Sin Festivo,Sin Evento
+Cerveza Lager,7.73,Bebidas,4,67,2025-08-09,S014,Bilbao,1,Sin Festivo,Sin Evento
+Yogur Natural,0.67,Lácteos,6,72,2025-05-06,S019,Málaga,0,Sin Festivo,Sin Evento
+Helado de Vainilla,2.19,Congelados,8,110,2025-07-20,S039,Barcelona,1,Sin Festivo,Sin Evento
+Protector Solar,11.78,Cuidado Personal,3,58,2024-05-31,S007,Valencia,0,Sin Festivo,Evento Deportivo Importante
+Papel Higiénico,5.4,Higiene,2,52,2025-07-15,S038,Barcelona,0,Sin Festivo,Sin Evento
+Pasta Italiana,3.16,Alimentación,5,19,2025-10-10,S016,Sevilla,0,Sin Festivo,Evento Deportivo Importante
+Pasta Italiana,3.46,Alimentación,3,8,2025-02-06,S036,Alicante,0,Sin Festivo,Sin Evento
+Pan de Molde,0.56,Panadería,5,43,2025-02-24,S049,Barcelona,0,Sin Festivo,Sin Evento
+Cerveza Lager,4.49,Bebidas,5,118,2025-08-05,S027,Málaga,0,Sin Festivo,Sin Evento
+Manzanas Fuji,1.47,Frutas y Verduras,4,10,2025-04-13,S046,Barcelona,1,Sin Festivo,Sin Evento
+Cerveza Lager,5.16,Bebidas,3,95,2024-03-22,S044,Alicante,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,5.6,Bebidas,1,47,2025-01-16,S001,Murcia,0,Sin Festivo,Sin Evento
+Papel Higiénico,0.8,Higiene,21,0,2025-05-10,S012,Barcelona,1,Sin Festivo,Sin Evento
+Yogur Natural,2.3,Lácteos,3,63,2024-05-03,S040,Málaga,0,Sin Festivo,Sin Evento
+Manzanas Fuji,1.84,Frutas y Verduras,2,62,2025-11-07,S031,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Papel Higiénico,3.37,Higiene,5,58,2024-05-20,S030,Palma de Mallorca,0,Sin Festivo,Sin Evento
+Leche Entera,0.44,Lácteos,6,17,2025-05-03,S050,Murcia,1,Sin Festivo,Sin Evento
+Detergente Líquido,4.28,Limpieza,2,86,2025-08-09,S003,Sevilla,1,Sin Festivo,Sin Evento
+Manzanas Fuji,2.13,Frutas y Verduras,14,149,2024-03-02,S012,Sevilla,0,Sin Festivo,Festival de Música
+Vino Tinto Rioja,9.27,Bebidas,4,11,2025-01-24,S020,Zaragoza,1,Sin Festivo,Sin Evento
+Pan de Molde,1.63,Panadería,3,15,2024-01-29,S024,Zaragoza,0,Sin Festivo,Sin Evento
+Pan de Molde,1.7,Panadería,5,7,2025-03-04,S036,Bilbao,0,Sin Festivo,Sin Evento
+Pasta Italiana,4.93,Alimentación,0,113,2024-02-17,S007,Valencia,0,Sin Festivo,Festival de Música
+Paraguas,8.69,Hogar,3,6,2025-08-24,S044,Bilbao,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,6.32,Bebidas,5,46,2024-08-30,S036,Zaragoza,1,Sin Festivo,Sin Evento
+Paraguas,7.09,Hogar,4,18,2024-01-05,S028,Bilbao,1,Sin Festivo,Sin Evento
+Pollo Fresco,4.11,Carnes,2,74,2024-05-04,S049,Málaga,0,Sin Festivo,Sin Evento
+Helado de Vainilla,2.39,Congelados,21,60,2024-11-24,S018,Murcia,1,Sin Festivo,Sin Evento
+Pollo Fresco,10.01,Carnes,0,78,2024-11-05,S001,Zaragoza,0,Sin Festivo,Sin Evento
+Leche Entera,0.94,Lácteos,13,63,2024-06-01,S042,Málaga,0,Sin Festivo,Sin Evento
+Leche Entera,1.55,Lácteos,0,24,2025-08-31,S050,Bilbao,1,Sin Festivo,Sin Evento
+Pan de Molde,1.18,Panadería,9,26,2024-05-08,S044,Murcia,0,Sin Festivo,Sin Evento
+Helado de Vainilla,6.76,Congelados,3,155,2025-02-12,S018,Málaga,0,Sin Festivo,Sin Evento
+Leche Entera,0.74,Lácteos,12,66,2025-04-26,S004,Málaga,1,Sin Festivo,Sin Evento
+Pollo Fresco,8.35,Carnes,0,92,2025-08-15,S036,Bilbao,1,Asunción de la Virgen,Sin Evento
+Pollo Fresco,9.14,Carnes,3,27,2024-12-13,S042,Madrid,1,Sin Festivo,Sin Evento
+Pasta Italiana,7.22,Alimentación,4,179,2025-06-16,S020,Zaragoza,0,Sin Festivo,Sin Evento
+Vino Tinto Rioja,1.03,Bebidas,13,29,2025-08-09,S013,Zaragoza,0,Sin Festivo,Sin Evento
+Yogur Natural,2.0,Lácteos,6,3,2024-04-06,S012,Málaga,1,Sin Festivo,Sin Evento
+Pasta Italiana,9.81,Alimentación,0,176,2024-02-16,S025,Málaga,0,Sin Festivo,Sin Evento
+Cerveza Lager,4.04,Bebidas,5,4,2024-12-31,S021,Málaga,0,Sin Festivo,Sin Evento
+Detergente Líquido,6.01,Limpieza,0,74,2025-09-26,S023,Valencia,1,Sin Festivo,Sin Evento
+Vino Tinto Rioja,3.34,Bebidas,7,87,2024-12-01,S011,Madrid,0,Sin Festivo,Sin Evento
+Paraguas,14.37,Hogar,3,23,2024-05-27,S036,Sevilla,0,Sin Festivo,Sin Evento
+Protector Solar,4.54,Cuidado Personal,0,38,2025-12-18,S034,Alicante,0,Sin Festivo,Sin Evento
+Paraguas,13.76,Hogar,4,38,2025-12-24,S018,Alicante,0,Sin Festivo,Sin Evento
+Pasta Italiana,2.57,Alimentación,6,152,2024-02-18,S047,Valencia,1,Sin Festivo,Sin Evento
+Pollo Fresco,14.16,Carnes,2,65,2025-11-02,S036,Alicante,0,Sin Festivo,Sin Evento
+Leche Entera,3.3,Lácteos,1,6,2024-10-24,S039,Bilbao,0,Sin Festivo,Feria Local
+Pollo Fresco,11.18,Carnes,5,6,2025-12-23,S047,Zaragoza,0,Sin Festivo,Sin Evento
+Yogur Natural,2.9,Lácteos,0,69,2024-12-12,S031,Zaragoza,0,Sin Festivo,Sin Evento
+Turrón de Almendras,14.25,Alimentación (Navidad),3,25,2024-10-13,S047,Barcelona,1,Sin Festivo,Sin Evento
