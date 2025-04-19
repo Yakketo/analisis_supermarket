@@ -17,6 +17,7 @@ El repositorio contiene los siguientes archivos y carpetas:
 * `models/`: Contiene los modelos serializados.
 * `output/`: Contiene los archivos de salida (datos_limpios.csv, predicciones.csv).
 * `src/`: Contiene el código fuente de Python.
+* `powerbi/`: Contiene el archivo powerbi con los dashboard
 * `test/`: Contiene los archivos de prueba.
 * `generacionDatos.py`: Script para generar datos.
 * `README.md`: Este archivo.
