@@ -50,18 +50,16 @@ El dashboard de Power BI consta de las siguientes páginas:
     * Breve resumen del rendimiento del modelo.
     * Botón de navegación a la página de "Análisis de Ventas".
 
-2.  **Análisis de Residuos del Modelo:**
-    * Tendencia de los residuos (errores de predicción) a lo largo del tiempo.
-    * Métricas resumen de los residuos (media y desviación estándar).
-    * Distribución de la frecuencia de los residuos (histograma).
-
-3.  **Análisis de Ventas:**
+2.  **Análisis de Ventas:**
     * Tendencia de ventas diarias segmentada por estado de promoción ("Sí hay promoción", "No hay promoción").
     * Distribución de las ventas por categoría de producto.
     * Comparativa de las ventas por ubicación de la tienda.
     * Análisis de la distribución de ventas por día festivo.
     *  * Botón de navegación a la página de "Análisis de de Residuos".
-
+3.  **Análisis de Residuos del Modelo:**
+    * Tendencia de los residuos (errores de predicción) a lo largo del tiempo.
+    * Métricas resumen de los residuos (media y desviación estándar).
+    * Distribución de la frecuencia de los residuos (histograma).
 
 ## Posibles Mejoras Futuras
 
