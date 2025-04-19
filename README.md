@@ -21,7 +21,6 @@ El repositorio contiene los siguientes archivos y carpetas:
 * `test/`: Contiene los archivos de prueba.
 * `generacionDatos.py`: Script para generar datos.
 * `README.md`: Este archivo.
-* `requirements.txt`: Lista de librerías de Python necesarias.
 * `LICENSE`: Archivo de licencia (ej. MIT).
 
 ## Tecnologías Utilizadas
@@ -56,7 +55,7 @@ El dashboard de Power BI consta de las siguientes páginas:
     * Distribución de las ventas por categoría de producto.
     * Comparativa de las ventas por ubicación de la tienda.
     * Análisis de la distribución de ventas por día festivo.
-    *  * Botón de navegación a la página de "Análisis de de Residuos".
+    * Botón de navegación a la página de "Análisis de de Residuos".
 3.  **Análisis de Residuos del Modelo:**
     * Tendencia de los residuos (errores de predicción) a lo largo del tiempo.
     * Métricas resumen de los residuos (media y desviación estándar).
