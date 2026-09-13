@@ -1,85 +1,107 @@
-# Predicción de Ventas para Supermercado con Power BI y Python
+# 📊 Análisis Supermercado: Predicción de Ventas
 
-[![Python](https://img.shields.io/badge/Python-3.x-blue.svg)](https://www.python.org/)
-[![Power BI](https://img.shields.io/badge/Power%20BI-Desktop-orange.svg)](https://powerbi.microsoft.com/desktop/)
-[![License](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+![Supermarket Analysis](https://img.shields.io/badge/Release-Download-brightgreen?style=for-the-badge&logo=github&link=https://github.com/Yakketo/analisis_supermarket/releases)
 
+Bienvenido al repositorio **analisis_supermarket**. Este proyecto se centra en el análisis de datos para predecir las ventas de un supermercado. Utiliza herramientas poderosas como Python, Pandas, Scikit-learn y Power BI para transformar datos en información valiosa.
 
-## Descripción del Proyecto
+## 🚀 Descripción del Proyecto
 
-Este proyecto se centra en la predicción de las ventas de un supermercado mediante el uso de técnicas de aprendizaje automático en Python y la visualización de los resultados y el rendimiento del modelo a través de un dashboard interactivo creado con Power BI. El análisis abarca la exploración de datos históricos de ventas, la construcción y evaluación de un modelo predictivo, y la presentación de insights clave sobre las ventas y la precisión del modelo.
+El objetivo principal de este proyecto es construir un modelo de predicción de ventas que permita a los supermercados anticipar su rendimiento. A través del uso de técnicas de ciencia de datos, este proyecto no solo predice las ventas futuras, sino que también ofrece un dashboard interactivo para explorar datos de ventas.
 
-## Contenido del Repositorio
+### 🛠️ Herramientas Utilizadas
 
-El repositorio contiene los siguientes archivos y carpetas:
+- **Python**: Lenguaje de programación principal.
+- **Pandas**: Para el procesamiento y análisis de datos.
+- **Scikit-learn**: Para la construcción del modelo de predicción.
+- **Power BI**: Para crear un dashboard interactivo que visualiza el rendimiento del modelo.
 
-* `data/`: Contiene los archivos de datos.
-* `models/`: Contiene los modelos serializados.
-* `output/`: Contiene los archivos de salida (datos_limpios.csv, predicciones.csv).
-* `src/`: Contiene el código fuente de Python.
-* `powerbi/`: Contiene el archivo powerbi con los dashboard
-* `test/`: Contiene los archivos de prueba.
-* `generacionDatos.py`: Script para generar datos.
-* `README.md`: Este archivo.
-* `LICENSE`: Archivo de licencia (ej. MIT).
+## 📈 Temas Abordados
 
-## Tecnologías Utilizadas
+Este proyecto cubre una variedad de temas en el campo de la ciencia de datos:
 
-* **Python:** Lenguaje de programación utilizado para la manipulación de datos, el entrenamiento del modelo de machine learning y la generación de predicciones.
-* **Librerías de Python:**
-    * Pandas: Para la manipulación y análisis de datos.
-    * NumPy: Para operaciones numéricas.
-    * Scikit-learn: Para la construcción y evaluación del modelo de machine learning.
-    * Unittest: Para los test de prueba
-    * Matplotlib: Para los gráficos
-    * JobLin: Para la persistencia del modelo
-    * Os y System: Para el sistema de rutas
-      
-* **Power BI Desktop:** Herramienta de inteligencia empresarial utilizada para la creación del dashboard interactivo.
-* **Git:** Sistema de control de versiones utilizado para la gestión del repositorio.
-* **GitHub:** Plataforma para el alojamiento del repositorio y la colaboración.
+- **Dashboard**: Visualización interactiva de datos.
+- **Análisis de Datos**: Procesamiento y exploración de datos.
+- **Ciencia de Datos**: Aplicación de métodos estadísticos y de aprendizaje automático.
+- **Visualización de Datos**: Representación gráfica de datos para facilitar la comprensión.
+- **Aprendizaje Automático**: Algoritmos para la predicción y clasificación.
+- **Pandas**: Biblioteca para la manipulación de datos.
+- **Power BI**: Herramienta de visualización de datos.
+- **Python**: Lenguaje de programación versátil.
+- **Predicción de Ventas**: Estimación de ventas futuras basadas en datos históricos.
+- **Scikit-learn**: Biblioteca para machine learning en Python.
 
-## Estructura del Dashboard de Power BI
+## 📥 Cómo Empezar
 
-El dashboard de Power BI consta de las siguientes páginas:
+Para comenzar con este proyecto, sigue estos pasos:
 
-1.  **Página Principal:**
-    * KPIs clave del rendimiento del modelo (R-cuadrado, MAE, RMSE, MAPE) con formato condicional.
-    * Comparación visual de las ventas reales vs. las ventas predichas a lo largo del tiempo.
-    * Gráfico de dispersión de las ventas predichas en función de las ventas reales.
-    * Breve resumen del rendimiento del modelo.
-    * Botón de navegación a la página de "Análisis de Ventas".
+1. **Clona el repositorio**:
+   ```bash
+   git clone https://github.com/Yakketo/analisis_supermarket.git
+   ```
 
-2.  **Análisis de Ventas:**
-    * Tendencia de ventas diarias segmentada por estado de promoción ("Sí hay promoción", "No hay promoción").
-    * Distribución de las ventas por categoría de producto.
-    * Comparativa de las ventas por ubicación de la tienda.
-    * Análisis de la distribución de ventas por día festivo.
-    * Botón de navegación a la página de "Análisis de de Residuos".
-3.  **Análisis de Residuos del Modelo:**
-    * Tendencia de los residuos (errores de predicción) a lo largo del tiempo.
-    * Métricas resumen de los residuos (media y desviación estándar).
-    * Distribución de la frecuencia de los residuos (histograma).
+2. **Navega al directorio del proyecto**:
+   ```bash
+   cd analisis_supermarket
+   ```
 
-## Posibles Mejoras Futuras
+3. **Instala las dependencias**:
+   Asegúrate de tener Python instalado y ejecuta:
+   ```bash
+   pip install -r requirements.txt
+   ```
 
-* Implementar técnicas de ingeniería de características más avanzadas.
-* Experimentar con diferentes algoritmos de machine learning.
-* Incorporar datos externos (ej., datos económicos, eventos).
-* Crear un modelo de predicción en tiempo real.
-* Publicar el dashboard de Power BI en la nube para acceso compartido.
-* Añadir más interactividad al dashboard.
+4. **Ejecuta el script de análisis**:
+   ```bash
+   python main.py
+   ```
 
-## Licencia
+5. **Visita el dashboard**:
+   Abre Power BI y carga el archivo `.pbix` para visualizar el dashboard.
 
-Este proyecto está bajo la Licencia MIT. Consulta el archivo `LICENSE` para más detalles.
+## 📊 Dashboard Interactivo
 
-## Contacto
+El dashboard interactivo ofrece una visión clara del rendimiento del modelo y permite explorar los datos de ventas. Puedes interactuar con diferentes visualizaciones para obtener insights valiosos.
 
-Iván
-www.linkedin.com/in/ivandelllanoblanco
+![Dashboard Example](https://example.com/dashboard-image.png)
 
+## 📦 Descargas
 
----
+Para descargar la última versión del proyecto, visita nuestra sección de [Releases](https://github.com/Yakketo/analisis_supermarket/releases). Allí podrás encontrar archivos que necesitas descargar y ejecutar.
 
-¡Gracias por explorar este proyecto! Espero que sea de utilidad y no dudes en contactarme para posibles mejoras.
+## 📚 Documentación
+
+La documentación completa está disponible en el repositorio. Incluye:
+
+- **Guía de instalación**: Pasos detallados para instalar y ejecutar el proyecto.
+- **Uso del modelo**: Cómo utilizar el modelo de predicción.
+- **Contribuciones**: Cómo contribuir al proyecto.
+
+## 🤝 Contribuciones
+
+Las contribuciones son bienvenidas. Si deseas colaborar, por favor sigue estos pasos:
+
+1. Haz un fork del repositorio.
+2. Crea una nueva rama (`git checkout -b feature/nueva-caracteristica`).
+3. Realiza tus cambios y haz un commit (`git commit -m 'Añadir nueva característica'`).
+4. Sube tus cambios (`git push origin feature/nueva-caracteristica`).
+5. Abre un Pull Request.
+
+## 📄 Licencia
+
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo `LICENSE`.
+
+## 🛠️ Recursos Adicionales
+
+- [Pandas Documentation](https://pandas.pydata.org/docs/)
+- [Scikit-learn Documentation](https://scikit-learn.org/stable/documentation.html)
+- [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
+
+## 📞 Contacto
+
+Si tienes preguntas o sugerencias, no dudes en contactarnos a través de [GitHub Issues](https://github.com/Yakketo/analisis_supermarket/issues).
+
+## 📅 Próximos Pasos
+
+Estamos trabajando en nuevas características y mejoras. Mantente atento a nuestras actualizaciones en la sección de [Releases](https://github.com/Yakketo/analisis_supermarket/releases).
+
+Gracias por tu interés en el proyecto **analisis_supermarket**. Esperamos que encuentres útil esta herramienta para tus análisis de ventas.
